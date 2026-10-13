@@ -1,0 +1,37 @@
+{
+  "chart_numbers": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68
+  ],
+  "verified_numeric_values": 1425,
+  "cache_worksheet_mismatches": 0,
+  "pdf_pages_visually_reviewed": [
+    31,
+    43,
+    50
+  ],
+  "checks": [
+    "All nonblank saved chart-cache values match their corresponding saved worksheet values.",
+    "Charts 55\u201362 explicitly divide raw GWh by Excel's thousands display-unit factor to show TWh.",
+    "Charts 63/64 preserve separate left demand and right charging/discharging scales and receive distinct panel titles.",
+    "Chart 66 retains Excel stacked-line accumulation, including the cumulative maximum-power line and raw hover values.",
+    "Chart 67 inherits missing categories for source series indices 8 and 7 from sibling series; all 48 intervals are retained.",
+    "Chart 68 preserves all 16 weather years and independently verified median and uplift calculations."
+  ],
+  "source_caveats": [
+    "Chart 66 labels its second stacked line as maximum injectable power although its displayed height adds the preceding forecast line. The recreation follows the actual Excel and PDF rendering and discloses raw values.",
+    "Chart 65 groups facilities assigned less than 10 MW under Small Facilities, as specified in the workbook."
+  ]
+}

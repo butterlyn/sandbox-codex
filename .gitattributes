@@ -1,0 +1,5 @@
+# Preserve third-party code and generated data exactly; make source reviews readable.
+vendor/** linguist-vendored -whitespace
+index.html linguist-generated -whitespace
+src/charts/*.json linguist-generated
+data/analysis/*.json linguist-generated

@@ -1,0 +1,80 @@
+{
+  "charts": [
+    {
+      "id": "supplement-a4-f25",
+      "sheet": "A4_F.25",
+      "source_range": "B24:E89",
+      "source_records": 66,
+      "plotted_records": 66,
+      "date_range": [
+        "2027-01-05",
+        "2031-08-11"
+      ],
+      "demand_range_MW": [
+        2933.6197843358,
+        5539.238248
+      ],
+      "unserved_energy_range_MWh": [
+        0.322284480313342,
+        5503.69557786018
+      ],
+      "category_counts": {
+        "Renewables <= 15% availability": 11,
+        "Outages >= Reserve Margin MW & Renewables <= 15% availability": 6,
+        "Renewables <= 15% availability & Battery SoC < 50%": 18,
+        "Other": 10,
+        "All three drivers": 6,
+        "Battery SoC < 50%": 11,
+        "Outages >= Reserve Margin MW": 4
+      },
+      "marker_size_encoding": "MWh proportional to area, minimum visible size for tiny values",
+      "checks": [
+        "all source rows retained exactly once, including duplicate dates",
+        "every plotted date, demand, MWh size and Cause round-trips to its source row",
+        "all supplied categories mapped explicitly without inferred reclassification"
+      ],
+      "source_caveats": [
+        "The workbook title and embedded image end in 2029–30, but the worksheet data continues to 11 August 2031. The interactive chart includes those later records.",
+        "Colors follow the worksheet's Cause values, which differ from the embedded image for some events."
+      ],
+      "status": "passed"
+    },
+    {
+      "id": "supplement-a4-f26",
+      "sheet": "A4_F.26",
+      "source_range": "B24:E3509",
+      "source_records": 3486,
+      "plotted_records": 3486,
+      "date_range": [
+        "2031-10-16",
+        "2035-10-01"
+      ],
+      "demand_range_MW": [
+        2219.30756907174,
+        6137.4854465875
+      ],
+      "unserved_energy_range_MWh": [
+        0.0293841565584003,
+        28318.1465755619
+      ],
+      "category_counts": {
+        "Other": 652,
+        "Battery SoC < 50%": 807,
+        "All three drivers": 1183,
+        "Renewables <= 15% availability": 745,
+        "Outages >= Reserve Margin MW": 99
+      },
+      "marker_size_encoding": "MWh proportional to area, minimum visible size for tiny values",
+      "checks": [
+        "all source rows retained exactly once, including duplicate dates",
+        "every plotted date, demand, MWh size and Cause round-trips to its source row",
+        "all supplied categories mapped explicitly without inferred reclassification"
+      ],
+      "source_caveats": [
+        "The source Cause column contains five categories; the embedded image legend contains eight. Colors here follow the supplied worksheet classifications."
+      ],
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

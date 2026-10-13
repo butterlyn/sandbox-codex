@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="An interactive, offline edition of the charts in AEMO's 2026 WEM Electricity Statement of Opportunities data register.">
+  <meta name="theme-color" content="#103b3a">
+  <title>WEM 2026 · Electricity outlook explorer</title>
+  <style>/*__APP_CSS__*/</style>
+</head>
+<body>
+  <a class="skip-link" href="#figure-title">Skip to chart</a>
+  <aside class="sidebar" id="sidebar" aria-label="Figure navigation">
+    <a class="brand" href="#chart-01" aria-label="WEM 2026 first chart"><span class="brand-icon" aria-hidden="true"><svg width="29" height="29" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 19 19 5M5 5h14v14"/></svg></span><span>WEM<span class="brand-year">2026</span></span></a>
+    <p class="sidebar-intro">Electricity outlook explorer</p>
+    <label class="search-label" for="search">Find a figure</label>
+    <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Demand, storage, capacity…" autocomplete="off"><kbd>/</kbd></div>
+    <label class="sr-only" for="section">Chapter</label>
+    <select id="section"><option value="">All chapters</option></select>
+    <label class="sr-only" for="kind">Figure type</label>
+    <select id="kind"><option value="">All figures</option><option value="interactive">Interactive charts</option><option value="reference">Reference figures</option><option value="unavailable">Source issues</option></select>
+    <div class="list-heading"><span id="result-count" aria-live="polite">Loading figures…</span><button id="clear-filters" class="text-button">Clear</button></div>
+    <nav id="figure-list" aria-label="Figures"></nav>
+    <div class="sidebar-footer"><span class="status-dot"></span> Single file · works offline<span class="source-credit">Source: AEMO · 2026 WEM ESOO</span></div>
+  </aside>
+  <div id="scrim" class="scrim" hidden></div>
+  <main id="main">
+    <header class="topbar"><button id="menu-button" class="menu-button" aria-expanded="false" aria-controls="sidebar">☰ <span>Figures</span></button><span class="eyebrow">WESTERN AUSTRALIA / SWIS</span><a href="https://www.aemo.com.au/energy-systems/electricity/wholesale-electricity-market-wem/wem-forecasting-and-planning/wem-electricity-statement-of-opportunities-wem-esoo" target="_blank" rel="noopener">AEMO publication <span aria-hidden="true">↗</span></a></header>
+    <div class="workspace">
+      <section class="intro" aria-label="About this explorer"><div><div class="eyebrow accent">THE 2026 ELECTRICITY OUTLOOK</div><h1>Explore the data behind the outlook.</h1><p>Demand, supply and reliability across the South West Interconnected System.</p></div><div class="edition"><span>DATA REGISTER</span><strong>2026</strong><span id="figure-total">Loading…</span></div></section>
+      <div class="summary-strip" id="summary-strip"></div>
+      <article class="figure-card" aria-labelledby="figure-title">
+        <div class="figure-header"><div class="figure-kicker"><span id="section-label"></span><span class="pill" id="type-label"></span></div><h2 id="figure-title" tabindex="-1">Loading the data register…</h2><p id="subtitle" class="subtitle" hidden></p><div class="figure-meta"><span id="sheet-label"></span><span id="series-label"></span><span id="position-label"></span></div></div>
+        <div class="toolbar"><div class="tabs" role="tablist" aria-label="Figure views"><button id="tab-chart" role="tab" aria-selected="true" aria-controls="panel-chart" data-tab="chart">Chart</button><button id="tab-data" role="tab" aria-selected="false" aria-controls="panel-data" data-tab="data" tabindex="-1">Data</button><button id="tab-source" role="tab" aria-selected="false" aria-controls="panel-source" data-tab="source" tabindex="-1">Source & notes</button></div><div class="actions"><button id="reset" title="Restore the original chart axes">Reset view</button><button id="export-csv">CSV ↓</button><button id="export-image">PNG ↓</button></div></div>
+        <div id="source-warning" class="source-warning" hidden></div>
+        <section id="panel-chart" role="tabpanel" aria-labelledby="tab-chart"><div id="plot" aria-label="Interactive figure"></div><div id="reference" hidden></div><div id="unavailable" class="unavailable" hidden></div><div id="legend" class="legend"></div><div id="interaction-hint" class="interaction-hint">Hover to inspect · drag to zoom · double-click to reset · click a series to toggle</div></section>
+        <section id="panel-data" role="tabpanel" aria-labelledby="tab-data" hidden><div class="data-heading"><label for="data-series">Series</label><select id="data-series"></select><span id="table-info"></span></div><div id="data-table" class="table-wrap"></div><div class="table-pagination"><button id="data-prev">← Previous 100</button><button id="data-next">Next 100 →</button></div></section>
+        <section id="panel-source" role="tabpanel" aria-labelledby="tab-source" hidden></section>
+        <div class="figure-footer"><span id="footer-credit">AEMO · 2026 WEM ESOO data register</span><a id="figure-permalink" href="#chart-01">Link to this figure ↗</a></div>
+      </article>
+      <div class="figure-pagination"><button id="previous-figure">← Previous figure</button><span id="filtered-position"></span><button id="next-figure">Next figure →</button></div>
+      <footer class="page-footer"><p>An independent interactive recreation of AEMO’s published workbook. Original source values, units and data gaps are retained; documented repairs and source limitations appear with each figure.</p><div id="source-links"></div><a href="https://github.com/butterlyn/sandbox-codex/tree/feat/wem-esoo-2026-interactive-charts" target="_blank" rel="noopener">Source code & original files ↗</a></footer>
+    </div>
+  </main>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <noscript>This explorer needs JavaScript. All chart data and the plotting library are contained in this file.</noscript>
+  <script>/*__PLOTLY__*/</script>
+  <script id="embedded-data" type="application/octet-stream">__CHART_PAYLOAD__</script>
+  <script>/*__APP_JS__*/</script>
+</body>
+</html>

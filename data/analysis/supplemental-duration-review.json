@@ -1,0 +1,34 @@
+{
+  "worksheet_figures": [
+    "A4_F.27",
+    "A4_F.28"
+  ],
+  "interactive_specs": 4,
+  "pdf_pages_visually_reviewed": [
+    62,
+    63
+  ],
+  "workbook_images_visually_reviewed": [
+    36,
+    37
+  ],
+  "bubble_observations": 300,
+  "positive_frequency_observations": 39,
+  "zero_frequency_placeholders": 261,
+  "frequency_total": 1.0,
+  "no_event_frequency": 0.711875,
+  "temporal_source_identity_checks": {
+    "half_hour_samples": 97,
+    "start": "2032-07-01T00:00:00",
+    "end": "2032-07-03T00:00:00",
+    "gas_available_capacity_identity_max_error_mw": 1.000444171950221e-11,
+    "battery_available_capacity_identity_max_error_mw": 2.2737367544323206e-13,
+    "operational_demand_identity_max_error_mw": 0.0,
+    "gas_max_capacity_mw": 2920.613
+  },
+  "derived_elements": [
+    "Reliability shading: magnitude (%) \u00d7 duration (hours) = 8760 \u00d7 0.0002 = 1.752.",
+    "Dispatch Essential System Services: Gas Regulation Raise + Gas Contingency Reserve Raise + ESR Regulation Raise + ESR Contingency Reserve Raise.",
+    "ESR withdrawal signs inverted for display; original positive values retained as customdata."
+  ]
+}

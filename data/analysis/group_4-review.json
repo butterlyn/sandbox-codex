@@ -1,0 +1,182 @@
+{
+  "charts": [
+    {
+      "chart_number": 42,
+      "sheet": "A1_F.7",
+      "cache_values_checked_against_cells": 195,
+      "native_series_count": 7,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1000000.0
+    },
+    {
+      "chart_number": 43,
+      "sheet": "A1_F.8a",
+      "cache_values_checked_against_cells": 195,
+      "native_series_count": 7,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 44,
+      "sheet": "A1_F.8b",
+      "cache_values_checked_against_cells": 195,
+      "native_series_count": 7,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 45,
+      "sheet": "A1_F.9",
+      "cache_values_checked_against_cells": 64,
+      "native_series_count": 3,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "Low scenario confirmed from worksheet header",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 46,
+      "sheet": "A1_F.9",
+      "cache_values_checked_against_cells": 64,
+      "native_series_count": 3,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "Expected scenario confirmed from worksheet header",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 47,
+      "sheet": "A1_F.9",
+      "cache_values_checked_against_cells": 64,
+      "native_series_count": 3,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "High scenario confirmed from worksheet header",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 48,
+      "sheet": "A1_F.10",
+      "cache_values_checked_against_cells": 221,
+      "native_series_count": 8,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1000.0
+    },
+    {
+      "chart_number": 49,
+      "sheet": "A1_F.11",
+      "cache_values_checked_against_cells": 221,
+      "native_series_count": 8,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1000.0
+    },
+    {
+      "chart_number": 50,
+      "sheet": "A1_F.12b",
+      "cache_values_checked_against_cells": 4057,
+      "native_series_count": 10,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "1,826 daily observations retained without sampling",
+        "five models retain all 40 points with numeric temperatures 1–40°C",
+        "native axes 8–32°C and 10–25 kWh preserved",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 51,
+      "sheet": "A1_F.12c",
+      "cache_values_checked_against_cells": 49,
+      "native_series_count": 7,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "five historical markers, eleven forecast values, and native linear fit retained",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "historical_linear_fit": {
+        "slope": 108.57267416210371,
+        "intercept": -214705.70613044797,
+        "domain": [
+          2021.0,
+          2025.0
+        ]
+      },
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 52,
+      "sheet": "A1_F.12d",
+      "cache_values_checked_against_cells": 49,
+      "native_series_count": 7,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "five historical markers, eleven forecast values, and native linear fit retained",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "historical_linear_fit": {
+        "slope": 0.09901005769094659,
+        "intercept": -199.3817103458232,
+        "domain": [
+          2021.0,
+          2025.0
+        ]
+      },
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 53,
+      "sheet": "A1_F.12e",
+      "cache_values_checked_against_cells": 49,
+      "native_series_count": 7,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "five historical markers, eleven forecast values, and native linear fit retained",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "historical_linear_fit": {
+        "slope": 0.08443873726449354,
+        "intercept": -169.883992737913,
+        "domain": [
+          2021.0,
+          2025.0
+        ]
+      },
+      "display_divisor": 1
+    },
+    {
+      "chart_number": 54,
+      "sheet": "A1_F.13",
+      "cache_values_checked_against_cells": 221,
+      "native_series_count": 8,
+      "checks": [
+        "every cached value matches its worksheet reference",
+        "all plotted source x/y positions and missing-value gaps preserved, allowing documented display-unit conversion"
+      ],
+      "display_divisor": 1000.0
+    }
+  ],
+  "total_cache_values_checked_against_cells": 5644,
+  "status": "passed"
+}
