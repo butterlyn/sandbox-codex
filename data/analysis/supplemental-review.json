@@ -1,0 +1,374 @@
+{
+  "coverage": {
+    "interactive_figures": 6,
+    "reference_images": 15,
+    "reference_sheets": 12,
+    "delegated_numeric_sheets": [
+      "Ch 6_F.42",
+      "Ch 6_F.43",
+      "A4_F.25",
+      "A4_F.26",
+      "A4_F.27",
+      "A4_F.28"
+    ]
+  },
+  "source_workbook": "data/sources/2026-wem-esoo-data-register.xlsx",
+  "items": [
+    {
+      "id": "supplement-ch3-f21",
+      "sheet": "Ch 3_F.21",
+      "kind": "interactive",
+      "series_count": 5,
+      "numeric_source_cells": 33,
+      "plotted_points": 15,
+      "transformation": "Exact grouped sums; fraction values retained for percentage formatting."
+    },
+    {
+      "id": "supplement-ch5-f33",
+      "sheet": "Ch 5_F.33",
+      "kind": "interactive",
+      "series_count": 15,
+      "numeric_source_cells": 16000,
+      "plotted_points": 24000,
+      "unique_observations": 16000,
+      "summary": [
+        {
+          "capacity_year": "2026-27",
+          "samples": 1600,
+          "min": 0.0,
+          "max": 0.00572159198362352,
+          "mean": 2.948306288308244e-05
+        },
+        {
+          "capacity_year": "2027-28",
+          "samples": 1600,
+          "min": 0.0,
+          "max": 0.0,
+          "mean": 0.0
+        },
+        {
+          "capacity_year": "2028-29",
+          "samples": 1600,
+          "min": 0.0,
+          "max": 0.0,
+          "mean": 0.0
+        },
+        {
+          "capacity_year": "2029-30",
+          "samples": 1600,
+          "min": 0.0,
+          "max": 0.00469310351126211,
+          "mean": 3.955026756773228e-05
+        },
+        {
+          "capacity_year": "2030-31",
+          "samples": 1600,
+          "min": 0.0,
+          "max": 0.0270233191806425,
+          "mean": 0.0006265156630948241
+        },
+        {
+          "capacity_year": "2031-32",
+          "samples": 1600,
+          "min": 0.00321280259483244,
+          "max": 0.117531486880193,
+          "mean": 0.03041157323211483
+        },
+        {
+          "capacity_year": "2032-33",
+          "samples": 1600,
+          "min": 0.0080803172804025,
+          "max": 0.174145630052084,
+          "mean": 0.052456203278422826
+        },
+        {
+          "capacity_year": "2033-34",
+          "samples": 1600,
+          "min": 0.0186964392977152,
+          "max": 0.218284203812172,
+          "mean": 0.08870850517833626
+        },
+        {
+          "capacity_year": "2034-35",
+          "samples": 1600,
+          "min": 0.114637058367039,
+          "max": 0.790874025089738,
+          "mean": 0.4036998374063309
+        },
+        {
+          "capacity_year": "2035-36",
+          "samples": 1600,
+          "min": 0.544946929434956,
+          "max": 1.42060312801562,
+          "mean": 0.8885676508696226
+        }
+      ],
+      "transformation": "Unscaled percentages, linear quartiles; early five years repeated only in the zoom panel."
+    },
+    {
+      "id": "supplement-ch5-f34",
+      "sheet": "Ch 5_F.34",
+      "kind": "interactive",
+      "series_count": 16,
+      "numeric_source_cells": 1746,
+      "unique_time_samples": 97,
+      "plotted_points": 1552,
+      "start": "2027-03-20T00:00:00",
+      "end": "2027-03-22T00:00:00",
+      "transformation": "Decode B+fractional_part(C) Excel dates; negate column R for below-zero charging; all other values unchanged."
+    },
+    {
+      "id": "supplement-ch5-f35",
+      "sheet": "Ch 5_F.35",
+      "kind": "interactive",
+      "series_count": 15,
+      "numeric_source_cells": 1746,
+      "unique_time_samples": 97,
+      "plotted_points": 1455,
+      "start": "2032-07-01T00:00:00",
+      "end": "2032-07-03T00:00:00",
+      "transformation": "Decode B+fractional_part(C) Excel dates; negate column R for below-zero charging; all other values unchanged."
+    },
+    {
+      "id": "supplement-ch5-f36",
+      "sheet": "Ch 5_F.36",
+      "kind": "interactive",
+      "series_count": 12,
+      "numeric_source_cells": 624,
+      "plotted_points": 576,
+      "transformation": "Trading interval fractions converted exactly to half-hour clock times; energy values unchanged."
+    },
+    {
+      "id": "supplement-ch5-f40",
+      "sheet": "Ch 5_F.40",
+      "kind": "interactive",
+      "series_count": 2,
+      "numeric_source_cells": 1121280,
+      "plotted_points": 560640,
+      "summary": [
+        {
+          "capacity_year": "2027-28",
+          "samples": 280320,
+          "allowance_MW": 1243.0,
+          "minimum_MW": 1612.6535428285529,
+          "maximum_MW": 6244.049485
+        },
+        {
+          "capacity_year": "2028-29",
+          "samples": 280320,
+          "allowance_MW": 1386.0,
+          "minimum_MW": 1705.874948993519,
+          "maximum_MW": 6522.412993
+        }
+      ],
+      "transformation": "Exact row-wise sums B+C and D+E; rank starts at 1, all 280,320 samples per trace; constant allowance columns not duplicated in plot arrays."
+    },
+    {
+      "id": "supplement-ch1-f3",
+      "sheet": "Ch 1_F.3",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "diagram",
+      "image_file": "data/analysis/images/image3.png",
+      "dimensions": [
+        1085,
+        764
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch1-f4",
+      "sheet": "Ch 1_F.4",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "diagram",
+      "image_file": "data/analysis/images/image4.png",
+      "dimensions": [
+        1192,
+        941
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch1-f5",
+      "sheet": "Ch 1_F.5",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "diagram",
+      "image_file": "data/analysis/images/image5.png",
+      "dimensions": [
+        1896,
+        1064
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch1-f6",
+      "sheet": "Ch 1_F.6",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "diagram",
+      "image_file": "data/analysis/images/image7.png",
+      "dimensions": [
+        1196,
+        618
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch4-f30",
+      "sheet": "Ch 4_F.30",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "diagram",
+      "image_file": "data/analysis/images/image9.png",
+      "dimensions": [
+        910,
+        786
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch6-f41",
+      "sheet": "Ch 6_F.41",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "map",
+      "image_file": "data/analysis/images/image16.png",
+      "dimensions": [
+        904,
+        1036
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch6-f44",
+      "sheet": "Ch 6_F.44",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "map",
+      "image_file": "data/analysis/images/image20.png",
+      "dimensions": [
+        1019,
+        507
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch6-f45",
+      "sheet": "Ch 6_F.45",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "map",
+      "image_file": "data/analysis/images/image21.png",
+      "dimensions": [
+        727,
+        654
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch6-f46",
+      "sheet": "Ch 6_F.46",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "map",
+      "image_file": "data/analysis/images/image22.png",
+      "dimensions": [
+        1032,
+        901
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-ch7-f48",
+      "sheet": "Ch 7_F.48",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "map",
+      "image_file": "data/analysis/images/image23.png",
+      "dimensions": [
+        1107,
+        971
+      ],
+      "related_sheets": []
+    },
+    {
+      "id": "supplement-a1-f12a-temperature-response",
+      "sheet": "A1_F.12a",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "duplicate overview",
+      "image_file": "data/analysis/images/image24.png",
+      "dimensions": [
+        1340,
+        600
+      ],
+      "related_sheets": [
+        "A1_F.12b"
+      ]
+    },
+    {
+      "id": "supplement-a1-f12a-base-load",
+      "sheet": "A1_F.12a",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "duplicate overview",
+      "image_file": "data/analysis/images/image26.png",
+      "dimensions": [
+        1344,
+        610
+      ],
+      "related_sheets": [
+        "A1_F.12c"
+      ]
+    },
+    {
+      "id": "supplement-a1-f12a-cooling-response",
+      "sheet": "A1_F.12a",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "duplicate overview",
+      "image_file": "data/analysis/images/image28.png",
+      "dimensions": [
+        1344,
+        610
+      ],
+      "related_sheets": [
+        "A1_F.12d"
+      ]
+    },
+    {
+      "id": "supplement-a1-f12a-heating-response",
+      "sheet": "A1_F.12a",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "duplicate overview",
+      "image_file": "data/analysis/images/image30.png",
+      "dimensions": [
+        1344,
+        610
+      ],
+      "related_sheets": [
+        "A1_F.12e"
+      ]
+    },
+    {
+      "id": "supplement-a1-f19",
+      "sheet": "A1_F.19",
+      "numeric_source_cells": 0,
+      "kind": "reference",
+      "reference_type": "duplicate overview",
+      "image_file": "data/analysis/images/image32.png",
+      "dimensions": [
+        1145,
+        505
+      ],
+      "related_sheets": [
+        "A1_F.19b",
+        "A1_F.19c",
+        "A1_F.19d"
+      ]
+    }
+  ]
+}

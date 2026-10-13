@@ -1,0 +1,46 @@
+{
+  "scope": "Six supplemental numerical figures in supplemental.json",
+  "renderer": "Plotly.js 3.1.0 in headless Chromium via Playwright",
+  "viewport": [
+    1300,
+    850
+  ],
+  "all_six_python_plotly_schema_valid": true,
+  "all_six_javascript_plotly_validate_empty": true,
+  "browser_errors": [],
+  "visual_inspection": "All six screenshots inspected, including distributions, two-day stacked dispatch, four season panels and full availability curves.",
+  "figures": [
+    {
+      "id": "supplement-ch3-f21",
+      "passed": true
+    },
+    {
+      "id": "supplement-ch5-f33",
+      "passed": true
+    },
+    {
+      "id": "supplement-ch5-f34",
+      "passed": true
+    },
+    {
+      "id": "supplement-ch5-f35",
+      "passed": true
+    },
+    {
+      "id": "supplement-ch5-f36",
+      "passed": true
+    },
+    {
+      "id": "supplement-ch5-f40",
+      "passed": true
+    }
+  ],
+  "availability_curve": {
+    "rendered_points": 560640,
+    "renderer": "scattergl",
+    "x_encoding": "x0=1, dx=1; one value per source sample",
+    "render_seconds_headless_chromium": 11.81
+  },
+  "date_validation": "Both dispatch figures have 97 contiguous half-hour observations across exactly two days.",
+  "notes": "WebGL-backed calcdata reports one bucket per trace, so source array lengths are used to count its points."
+}

@@ -1,0 +1,2945 @@
+{
+  "chart_count": 68,
+  "charts": [
+    {
+      "id": "chart-01",
+      "chart_number": 1,
+      "sheet": "ES_F.1",
+      "sheet_part": "xl/worksheets/sheet3.xml",
+      "title": "Figure 1 - Forecast supply-demand balance of forecast peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart1.xml",
+      "xml_file": "data/analysis/chart-xml/chart01.xml",
+      "section": "Executive summary",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 6
+    },
+    {
+      "id": "chart-02",
+      "chart_number": 2,
+      "sheet": "ES_F.2",
+      "sheet_part": "xl/worksheets/sheet4.xml",
+      "title": "Figure 2 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart2.xml",
+      "xml_file": "data/analysis/chart-xml/chart02.xml",
+      "section": "Executive summary",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 33
+    },
+    {
+      "id": "chart-03",
+      "chart_number": 3,
+      "sheet": "Ch 2_F.7",
+      "sheet_part": "xl/worksheets/sheet9.xml",
+      "title": "Figure 7 - Actual and forecast underlying consumption under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart3.xml",
+      "xml_file": "data/analysis/chart-xml/chart03.xml",
+      "section": "Chapter 2",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-04",
+      "chart_number": 4,
+      "sheet": "Ch 2_F.8",
+      "sheet_part": "xl/worksheets/sheet10.xml",
+      "title": "Figure 8 - Actual and forecast underlying electricity consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart4.xml",
+      "xml_file": "data/analysis/chart-xml/chart04.xml",
+      "section": "Chapter 2",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 6
+    },
+    {
+      "id": "chart-05",
+      "chart_number": 5,
+      "sheet": "Ch 2_F.9",
+      "sheet_part": "xl/worksheets/sheet11.xml",
+      "title": "Figure 9 - Actual and forecast delivered consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart5.xml",
+      "xml_file": "data/analysis/chart-xml/chart05.xml",
+      "section": "Chapter 2",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 6
+    },
+    {
+      "id": "chart-06",
+      "chart_number": 6,
+      "sheet": "Ch 2_F.10",
+      "sheet_part": "xl/worksheets/sheet12.xml",
+      "title": "Figure 10 - Forecast underlying residential consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart6.xml",
+      "xml_file": "data/analysis/chart-xml/chart06.xml",
+      "section": "Chapter 2",
+      "types": [
+        "areaChart",
+        "lineChart"
+      ],
+      "series_count": 6
+    },
+    {
+      "id": "chart-07",
+      "chart_number": 7,
+      "sheet": "Ch 2_F.11",
+      "sheet_part": "xl/worksheets/sheet13.xml",
+      "title": "Figure 11 - Forecast business underlying consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart7.xml",
+      "xml_file": "data/analysis/chart-xml/chart07.xml",
+      "section": "Chapter 2",
+      "types": [
+        "areaChart",
+        "lineChart"
+      ],
+      "series_count": 9
+    },
+    {
+      "id": "chart-08",
+      "chart_number": 8,
+      "sheet": "Ch 2_F.12",
+      "sheet_part": "xl/worksheets/sheet14.xml",
+      "title": "Figure 12 - Actual peak demand and forecast 10% POE summer peak unscheduled operational demand under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart8.xml",
+      "xml_file": "data/analysis/chart-xml/chart08.xml",
+      "section": "Chapter 2",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-09",
+      "chart_number": 9,
+      "sheet": "Ch 2_F.13",
+      "sheet_part": "xl/worksheets/sheet15.xml",
+      "title": "Figure 13 - 10%, 50%, and 90% POE summer peak unscheduled operational demand forecasts, from 2025 and 2026 WEM ESOOs, Expected scenario, 2024-25 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart9.xml",
+      "xml_file": "data/analysis/chart-xml/chart09.xml",
+      "section": "Chapter 2",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 6
+    },
+    {
+      "id": "chart-10",
+      "chart_number": 10,
+      "sheet": "Ch 2_F.14",
+      "sheet_part": "xl/worksheets/sheet16.xml",
+      "title": "Figure 14 - Modelled reduction of SWIS annual peak unscheduled operational demand due to the virtual power plant, 10% POE Expected scenario, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart10.xml",
+      "xml_file": "data/analysis/chart-xml/chart10.xml",
+      "section": "Chapter 2",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-11",
+      "chart_number": 11,
+      "sheet": "Ch 2_F.15",
+      "sheet_part": "xl/worksheets/sheet17.xml",
+      "title": "Figure 15 - Illustration of the modelled behaviour and impact of passive distributed batteries and the virtual power plant on SWIS peak unscheduled operational demand, 2028-29 (based on Reference Year 2024-25) (MW)",
+      "xml_part": "xl/charts/chart11.xml",
+      "xml_file": "data/analysis/chart-xml/chart11.xml",
+      "section": "Chapter 2",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 2
+    },
+    {
+      "id": "chart-12",
+      "chart_number": 12,
+      "sheet": "Ch 2_F.15",
+      "sheet_part": "xl/worksheets/sheet17.xml",
+      "title": "Figure 15 - Illustration of the modelled behaviour and impact of passive distributed batteries and the virtual power plant on SWIS peak unscheduled operational demand, 2028-29 (based on Reference Year 2024-25) (MW)",
+      "xml_part": "xl/charts/chart12.xml",
+      "xml_file": "data/analysis/chart-xml/chart12.xml",
+      "section": "Chapter 2",
+      "types": [
+        "areaChart",
+        "lineChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-13",
+      "chart_number": 13,
+      "sheet": "Ch 2_F.16",
+      "sheet_part": "xl/worksheets/sheet18.xml",
+      "title": "Figure 16 - Zoom-in on the illustrative modelled behaviour of the VPP, and its impact on SWIS unscheduled peak operational demand, 2028-29 (based on reference year 2024-25) (MW)",
+      "xml_part": "xl/charts/chart13.xml",
+      "xml_file": "data/analysis/chart-xml/chart13.xml",
+      "section": "Chapter 2",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 1
+    },
+    {
+      "id": "chart-14",
+      "chart_number": 14,
+      "sheet": "Ch 2_F.16",
+      "sheet_part": "xl/worksheets/sheet18.xml",
+      "title": "Figure 16 - Zoom-in on the illustrative modelled behaviour of the VPP, and its impact on SWIS unscheduled peak operational demand, 2028-29 (based on reference year 2024-25) (MW)",
+      "xml_part": "xl/charts/chart14.xml",
+      "xml_file": "data/analysis/chart-xml/chart14.xml",
+      "section": "Chapter 2",
+      "types": [
+        "areaChart",
+        "lineChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-15",
+      "chart_number": 15,
+      "sheet": "Ch 2_F.17",
+      "sheet_part": "xl/worksheets/sheet19.xml",
+      "title": "Figure 17 - Actual and forecast 10% POE winter peak unscheduled operational demand under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart15.xml",
+      "xml_file": "data/analysis/chart-xml/chart15.xml",
+      "section": "Chapter 2",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-16",
+      "chart_number": 16,
+      "sheet": "Ch 2_F.18",
+      "sheet_part": "xl/worksheets/sheet20.xml",
+      "title": "Figure 18 - Actual and forecast 90% POE minimum unscheduled opertional demand under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart16.xml",
+      "xml_file": "data/analysis/chart-xml/chart16.xml",
+      "section": "Chapter 2",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-17",
+      "chart_number": 17,
+      "sheet": "Ch 2_F.19",
+      "sheet_part": "xl/worksheets/sheet21.xml",
+      "title": "Figure 19 - Actual and 10%, 50%, and 90% POE minimum unscheduled opertional demand forecasts, from 2025 and 2026 WEM ESOOs, Expected scenario, 2019-20 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart17.xml",
+      "xml_file": "data/analysis/chart-xml/chart17.xml",
+      "section": "Chapter 2",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-18",
+      "chart_number": 18,
+      "sheet": "Ch 2_F.20",
+      "sheet_part": "xl/worksheets/sheet22.xml",
+      "title": "Figure 20 - Minimum operational demand forecast and committed Electric Storage Resource entry, 90% POE Expected scenario, 2017-18 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart18.xml",
+      "xml_file": "data/analysis/chart-xml/chart18.xml",
+      "section": "Chapter 2",
+      "types": [
+        "areaChart",
+        "areaChart",
+        "barChart",
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 14
+    },
+    {
+      "id": "chart-19",
+      "chart_number": 19,
+      "sheet": "Ch 3_F.22",
+      "sheet_part": "xl/worksheets/sheet24.xml",
+      "title": "Figure 22 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart19.xml",
+      "xml_file": "data/analysis/chart-xml/chart19.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 33
+    },
+    {
+      "id": "chart-20",
+      "chart_number": 20,
+      "sheet": "Ch 3_F.23",
+      "sheet_part": "xl/worksheets/sheet25.xml",
+      "title": "Figure 23 - Forecast peak capacity with and without Relevant Level Method uplift capacity, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart20.xml",
+      "xml_file": "data/analysis/chart-xml/chart20.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 10
+    },
+    {
+      "id": "chart-21",
+      "chart_number": 21,
+      "sheet": "Ch 3_F.24",
+      "sheet_part": "xl/worksheets/sheet26.xml",
+      "title": "Figure 24 - Forecast flexible capacity by technology type, Expected scenario, 2027-28 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart21.xml",
+      "xml_file": "data/analysis/chart-xml/chart21.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-22",
+      "chart_number": 22,
+      "sheet": "Ch 3_F.24",
+      "sheet_part": "xl/worksheets/sheet26.xml",
+      "title": "Figure 24 - Forecast flexible capacity by technology type, Expected scenario, 2027-28 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart22.xml",
+      "xml_file": "data/analysis/chart-xml/chart22.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 10
+    },
+    {
+      "id": "chart-23",
+      "chart_number": 23,
+      "sheet": "Ch 3_F.25",
+      "sheet_part": "xl/worksheets/sheet27.xml",
+      "title": "Figure 25 - Change in actual (2020-21 to 2025-26) and forecast peak capacity in the 2026 WEM ESOO Expected scenario (2026-27 to 2027-28), by technology type (MW)",
+      "xml_part": "xl/charts/chart23.xml",
+      "xml_file": "data/analysis/chart-xml/chart23.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-24",
+      "chart_number": 24,
+      "sheet": "Ch 3_F.25",
+      "sheet_part": "xl/worksheets/sheet27.xml",
+      "title": "Figure 25 - Change in actual (2020-21 to 2025-26) and forecast peak capacity in the 2026 WEM ESOO Expected scenario (2026-27 to 2027-28), by technology type (MW)",
+      "xml_part": "xl/charts/chart24.xml",
+      "xml_file": "data/analysis/chart-xml/chart24.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 10
+    },
+    {
+      "id": "chart-25",
+      "chart_number": 25,
+      "sheet": "Ch 3_F.26",
+      "sheet_part": "xl/worksheets/sheet28.xml",
+      "title": "Figure 26\u00a0- Peak Capacity Credits for 2027-28, by Facility age and technology type, as of 7 May 2026, Expected scenario (MW)",
+      "xml_part": "xl/charts/chart25.xml",
+      "xml_file": "data/analysis/chart-xml/chart25.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 9
+    },
+    {
+      "id": "chart-26",
+      "chart_number": 26,
+      "sheet": "Ch 3_F.27",
+      "sheet_part": "xl/worksheets/sheet29.xml",
+      "title": "Figure 27 - Frequency of Forced Outage exceeding the single, two, and three largest generators during the peak Intervals from 2020-21 to 2025-26 Hot Seasons (%)",
+      "xml_part": "xl/charts/chart26.xml",
+      "xml_file": "data/analysis/chart-xml/chart26.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-27",
+      "chart_number": 27,
+      "sheet": "Ch 3_F.28",
+      "sheet_part": "xl/worksheets/sheet30.xml",
+      "title": "Figure 28 - Daily peak percentage of Capacity Credits on Forced Outage during Hot Season for 2020-21 to 2025-26 (%)",
+      "xml_part": "xl/charts/chart27.xml",
+      "xml_file": "data/analysis/chart-xml/chart27.xml",
+      "section": "Chapter 3",
+      "types": [
+        "areaChart"
+      ],
+      "series_count": 1
+    },
+    {
+      "id": "chart-28",
+      "chart_number": 28,
+      "sheet": "Ch 3_F.29",
+      "sheet_part": "xl/worksheets/sheet31.xml",
+      "title": "Figure 29 - Outage rate (%) and maximum assigned Capacity Credits assigned (MW) by Facility for the 36 months as of 26 April 2026",
+      "xml_part": "xl/charts/chart28.xml",
+      "xml_file": "data/analysis/chart-xml/chart28.xml",
+      "section": "Chapter 3",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 2
+    },
+    {
+      "id": "chart-29",
+      "chart_number": 29,
+      "sheet": "Ch 4_F.31",
+      "sheet_part": "xl/worksheets/sheet33.xml",
+      "title": "Figure 31 - Illustration of Residual Demand, ESR Dispatch, and Peak ESROD Demand at each Trading Interval for illustration of ESR Duration Requirement assessment for a single peak demand day in a single weather reference year (MW)",
+      "xml_part": "xl/charts/chart29.xml",
+      "xml_file": "data/analysis/chart-xml/chart29.xml",
+      "section": "Chapter 4",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-30",
+      "chart_number": 30,
+      "sheet": "Ch 4_F.32",
+      "sheet_part": "xl/worksheets/sheet34.xml",
+      "title": "Figure 32 - Reference Demand Profiles for the four highest demand Capacity Years within the Reference Demand Profile Reference Period (MW)",
+      "xml_part": "xl/charts/chart30.xml",
+      "xml_file": "data/analysis/chart-xml/chart30.xml",
+      "section": "Chapter 4",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 5
+    },
+    {
+      "id": "chart-31",
+      "chart_number": 31,
+      "sheet": "Ch 5_F.37",
+      "sheet_part": "xl/worksheets/sheet39.xml",
+      "title": "Figure 37 - Annual maximum Four-Hour Demand Increase for 2026-27 to 2029-30 (MW)",
+      "xml_part": "xl/charts/chart31.xml",
+      "xml_file": "data/analysis/chart-xml/chart31.xml",
+      "section": "Chapter 5",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 4
+    },
+    {
+      "id": "chart-32",
+      "chart_number": 32,
+      "sheet": "Ch 5_F.38",
+      "sheet_part": "xl/worksheets/sheet40.xml",
+      "title": "Figure 38 - Forecast supply-demand balance of peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart32.xml",
+      "xml_file": "data/analysis/chart-xml/chart32.xml",
+      "section": "Chapter 5",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 6
+    },
+    {
+      "id": "chart-33",
+      "chart_number": 33,
+      "sheet": "Ch 5_F.39",
+      "sheet_part": "xl/worksheets/sheet41.xml",
+      "title": "Figure 39 - Forecast supply-demand balance of flexible capacity, Expected scenario, 2027-28 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart33.xml",
+      "xml_file": "data/analysis/chart-xml/chart33.xml",
+      "section": "Chapter 5",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 4
+    },
+    {
+      "id": "chart-34",
+      "chart_number": 34,
+      "sheet": "Ch 7_F.47",
+      "sheet_part": "xl/worksheets/sheet49.xml",
+      "title": "Figure 47 - Forecast peak capacity for 2028-29 (MW)",
+      "xml_part": "xl/charts/chart34.xml",
+      "xml_file": "data/analysis/chart-xml/chart34.xml",
+      "section": "Chapter 7",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 5
+    },
+    {
+      "id": "chart-35",
+      "chart_number": 35,
+      "sheet": "Ch 7_F.49",
+      "sheet_part": "xl/worksheets/sheet51.xml",
+      "title": "Figure 49 - Reserve Capacity Price, Benchmark Reserve Capacity Price and capacity excess/deficit, 2017-18 to 2028-29",
+      "xml_part": "xl/charts/chart35.xml",
+      "xml_file": "data/analysis/chart-xml/chart35.xml",
+      "section": "Chapter 7",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 4
+    },
+    {
+      "id": "chart-36",
+      "chart_number": 36,
+      "sheet": "A1_F.1",
+      "sheet_part": "xl/worksheets/sheet53.xml",
+      "title": "Figure 1 - Forecast real economic growth, 2019-20 to 2057-58, financial years (real, %) ",
+      "xml_part": "xl/charts/chart36.xml",
+      "xml_file": "data/analysis/chart-xml/chart36.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-37",
+      "chart_number": 37,
+      "sheet": "A1_F.2",
+      "sheet_part": "xl/worksheets/sheet54.xml",
+      "title": "Figure 2 - Actual and forecast Western Australian dwellings under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36  ",
+      "xml_part": "xl/charts/chart37.xml",
+      "xml_file": "data/analysis/chart-xml/chart37.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-38",
+      "chart_number": 38,
+      "sheet": "A1_F.3",
+      "sheet_part": "xl/worksheets/sheet55.xml",
+      "title": "Figure 3 - Actual and forecast SWIS new connections under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36",
+      "xml_part": "xl/charts/chart38.xml",
+      "xml_file": "data/analysis/chart-xml/chart38.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-39",
+      "chart_number": 39,
+      "sheet": "A1_F.4",
+      "sheet_part": "xl/worksheets/sheet56.xml",
+      "title": "Figure 4 - Actual and forecast installed residential distributed photovoltaic capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)  ",
+      "xml_part": "xl/charts/chart39.xml",
+      "xml_file": "data/analysis/chart-xml/chart39.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-40",
+      "chart_number": 40,
+      "sheet": "A1_F.5",
+      "sheet_part": "xl/worksheets/sheet57.xml",
+      "title": "Figure 5 - Actual and forecast installed business distributed PV capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)   ",
+      "xml_part": "xl/charts/chart40.xml",
+      "xml_file": "data/analysis/chart-xml/chart40.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-41",
+      "chart_number": 41,
+      "sheet": "A1_F.6",
+      "sheet_part": "xl/worksheets/sheet58.xml",
+      "title": "Figure 6 - Forecast delivered consumption resulting from electrification under three scenarios, from 2025 and 2026 WEM ESOOs, 2025-26 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart41.xml",
+      "xml_file": "data/analysis/chart-xml/chart41.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 6
+    },
+    {
+      "id": "chart-42",
+      "chart_number": 42,
+      "sheet": "A1_F.7",
+      "sheet_part": "xl/worksheets/sheet59.xml",
+      "title": "Figure 7 - Actual and forecast battery electric vehicle and plug-in hybrid electric vehicle fleet size under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (millions)",
+      "xml_part": "xl/charts/chart42.xml",
+      "xml_file": "data/analysis/chart-xml/chart42.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-43",
+      "chart_number": 43,
+      "sheet": "A1_F.8a",
+      "sheet_part": "xl/worksheets/sheet60.xml",
+      "title": "Figure 8a - Actual and forecast uptake of distributed batteries capacity under three scenarios, from the 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart43.xml",
+      "xml_file": "data/analysis/chart-xml/chart43.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-44",
+      "chart_number": 44,
+      "sheet": "A1_F.8b",
+      "sheet_part": "xl/worksheets/sheet61.xml",
+      "title": "Figure 8b - Actual and forecast uptake of distributed batteries capacity under three scenarios, from the 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MWh degraded)",
+      "xml_part": "xl/charts/chart44.xml",
+      "xml_file": "data/analysis/chart-xml/chart44.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-45",
+      "chart_number": 45,
+      "sheet": "A1_F.9",
+      "sheet_part": "xl/worksheets/sheet62.xml",
+      "title": "Figure 9 - Distributed batteries capacity under three scenarios of the 2026 WEM ESOO spilt by segment, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart45.xml",
+      "xml_file": "data/analysis/chart-xml/chart45.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-46",
+      "chart_number": 46,
+      "sheet": "A1_F.9",
+      "sheet_part": "xl/worksheets/sheet62.xml",
+      "title": "Figure 9 - Distributed batteries capacity under three scenarios of the 2026 WEM ESOO spilt by segment, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart46.xml",
+      "xml_file": "data/analysis/chart-xml/chart46.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-47",
+      "chart_number": 47,
+      "sheet": "A1_F.9",
+      "sheet_part": "xl/worksheets/sheet62.xml",
+      "title": "Figure 9 - Distributed batteries capacity under three scenarios of the 2026 WEM ESOO spilt by segment, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart47.xml",
+      "xml_file": "data/analysis/chart-xml/chart47.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-48",
+      "chart_number": 48,
+      "sheet": "A1_F.10",
+      "sheet_part": "xl/worksheets/sheet63.xml",
+      "title": "Figure 10 - Actual and forecast underlying residential electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "xml_part": "xl/charts/chart48.xml",
+      "xml_file": "data/analysis/chart-xml/chart48.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-49",
+      "chart_number": 49,
+      "sheet": "A1_F.11",
+      "sheet_part": "xl/worksheets/sheet64.xml",
+      "title": "Figure 11 - Actual and forecast delivered residential electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "xml_part": "xl/charts/chart49.xml",
+      "xml_file": "data/analysis/chart-xml/chart49.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-50",
+      "chart_number": 50,
+      "sheet": "A1_F.12b",
+      "sheet_part": "xl/worksheets/sheet66.xml",
+      "title": "Figure 12b - Household electricity consumption response to temperature, 2020-21 to 2024-25 (kWh)",
+      "xml_part": "xl/charts/chart50.xml",
+      "xml_file": "data/analysis/chart-xml/chart50.xml",
+      "section": "Appendices",
+      "types": [
+        "scatterChart"
+      ],
+      "series_count": 10
+    },
+    {
+      "id": "chart-51",
+      "chart_number": 51,
+      "sheet": "A1_F.12c",
+      "sheet_part": "xl/worksheets/sheet67.xml",
+      "title": "Figure 12c - Average annual household base load consumption, 2020-21 to 2035-36 (kWh)",
+      "xml_part": "xl/charts/chart51.xml",
+      "xml_file": "data/analysis/chart-xml/chart51.xml",
+      "section": "Appendices",
+      "types": [
+        "scatterChart",
+        "scatterChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-52",
+      "chart_number": 52,
+      "sheet": "A1_F.12d",
+      "sheet_part": "xl/worksheets/sheet68.xml",
+      "title": "Figure 12d - Average annual household cooling response consumption, 2020-21 to 2035-36 (kWh/CDD)",
+      "xml_part": "xl/charts/chart52.xml",
+      "xml_file": "data/analysis/chart-xml/chart52.xml",
+      "section": "Appendices",
+      "types": [
+        "scatterChart",
+        "scatterChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-53",
+      "chart_number": 53,
+      "sheet": "A1_F.12e",
+      "sheet_part": "xl/worksheets/sheet69.xml",
+      "title": "Figure 12e - Average annual household heating response consumption, 2020-21 to 2035-36 (kWh/HDD)",
+      "xml_part": "xl/charts/chart53.xml",
+      "xml_file": "data/analysis/chart-xml/chart53.xml",
+      "section": "Appendices",
+      "types": [
+        "scatterChart",
+        "scatterChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-54",
+      "chart_number": 54,
+      "sheet": "A1_F.13",
+      "sheet_part": "xl/worksheets/sheet70.xml",
+      "title": "Figure 13 - Actual and forecast business mass market underlying electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "xml_part": "xl/charts/chart54.xml",
+      "xml_file": "data/analysis/chart-xml/chart54.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-55",
+      "chart_number": 55,
+      "sheet": "A1_F.14",
+      "sheet_part": "xl/worksheets/sheet71.xml",
+      "title": "Figure 14 - Actual and forecast business mass market delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "xml_part": "xl/charts/chart55.xml",
+      "xml_file": "data/analysis/chart-xml/chart55.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-56",
+      "chart_number": 56,
+      "sheet": "A1_F.15",
+      "sheet_part": "xl/worksheets/sheet72.xml",
+      "title": "Figure 15 - Actual and forecast large industrial load delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh) ",
+      "xml_part": "xl/charts/chart56.xml",
+      "xml_file": "data/analysis/chart-xml/chart56.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-57",
+      "chart_number": 57,
+      "sheet": "A1_F.16",
+      "sheet_part": "xl/worksheets/sheet73.xml",
+      "title": "Figure 16 - Forecast total energy efficiency savings in the business mass market and residential sectors, under three scenarios from the 2025 and 2026 WEM ESOOs, 2024-25 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart57.xml",
+      "xml_file": "data/analysis/chart-xml/chart57.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 6
+    },
+    {
+      "id": "chart-58",
+      "chart_number": 58,
+      "sheet": "A1_F.17",
+      "sheet_part": "xl/worksheets/sheet74.xml",
+      "title": "Figure 17 - Actual and forecast new industries delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart58.xml",
+      "xml_file": "data/analysis/chart-xml/chart58.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 8
+    },
+    {
+      "id": "chart-59",
+      "chart_number": 59,
+      "sheet": "A1_F.18",
+      "sheet_part": "xl/worksheets/sheet75.xml",
+      "title": "Figure 18 - Actual and forecast data centres delivered electricity consumption under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart59.xml",
+      "xml_file": "data/analysis/chart-xml/chart59.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 4
+    },
+    {
+      "id": "chart-60",
+      "chart_number": 60,
+      "sheet": "A1_F.19b",
+      "sheet_part": "xl/worksheets/sheet77.xml",
+      "title": "Figure 19b - Data centre forecasts methodology: Project based approach under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart60.xml",
+      "xml_file": "data/analysis/chart-xml/chart60.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 4
+    },
+    {
+      "id": "chart-61",
+      "chart_number": 61,
+      "sheet": "A1_F.19c",
+      "sheet_part": "xl/worksheets/sheet78.xml",
+      "title": "Figure 19c - Data centre forecasts methodology: Economic based approach under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart61.xml",
+      "xml_file": "data/analysis/chart-xml/chart61.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 4
+    },
+    {
+      "id": "chart-62",
+      "chart_number": 62,
+      "sheet": "A1_F.19d",
+      "sheet_part": "xl/worksheets/sheet79.xml",
+      "title": "Figure 19d - Data centre forecasts methodology: Blending approaches - project based and economic based forecasts under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "xml_part": "xl/charts/chart62.xml",
+      "xml_file": "data/analysis/chart-xml/chart62.xml",
+      "section": "Appendices",
+      "types": [
+        "lineChart"
+      ],
+      "series_count": 4
+    },
+    {
+      "id": "chart-63",
+      "chart_number": 63,
+      "sheet": "A1_F.20",
+      "sheet_part": "xl/worksheets/sheet80.xml",
+      "title": "Figure 20 - Illustration of the approach to modelling the impact of the virtual power plant on peak demand (MW)",
+      "xml_part": "xl/charts/chart63.xml",
+      "xml_file": "data/analysis/chart-xml/chart63.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart",
+        "lineChart",
+        "lineChart"
+      ],
+      "series_count": 5
+    },
+    {
+      "id": "chart-64",
+      "chart_number": 64,
+      "sheet": "A1_F.20",
+      "sheet_part": "xl/worksheets/sheet80.xml",
+      "title": "Figure 20 - Illustration of the approach to modelling the impact of the virtual power plant on peak demand (MW)",
+      "xml_part": "xl/charts/chart64.xml",
+      "xml_file": "data/analysis/chart-xml/chart64.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 3
+    },
+    {
+      "id": "chart-65",
+      "chart_number": 65,
+      "sheet": "A2_F.21",
+      "sheet_part": "xl/worksheets/sheet81.xml",
+      "title": "Figure 21 - Changes in assigned Peak Capacity Credits to Facilities, 2026-27 and 2027-28 (MW)",
+      "xml_part": "xl/charts/chart65.xml",
+      "xml_file": "data/analysis/chart-xml/chart65.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart"
+      ],
+      "series_count": 2
+    },
+    {
+      "id": "chart-66",
+      "chart_number": 66,
+      "sheet": "A3_F.22",
+      "sheet_part": "xl/worksheets/sheet82.xml",
+      "title": "Figure 22 - Difference between forecast supply capacity and maximum quantity of power injectable to the SWIS, wind and solar generators, Expected scenario, 2026-27 to 2035-36 (MW)",
+      "xml_part": "xl/charts/chart66.xml",
+      "xml_file": "data/analysis/chart-xml/chart66.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 7
+    },
+    {
+      "id": "chart-67",
+      "chart_number": 67,
+      "sheet": "A4_F.23",
+      "sheet_part": "xl/worksheets/sheet83.xml",
+      "title": "Figure 23 - Depth of tranches and operational demand estimate for ESR Duration Requirement Uplift calculation based on the 2009-10 weather reference year (MW)",
+      "xml_part": "xl/charts/chart67.xml",
+      "xml_file": "data/analysis/chart-xml/chart67.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 9
+    },
+    {
+      "id": "chart-68",
+      "chart_number": 68,
+      "sheet": "A4_F.24",
+      "sheet_part": "xl/worksheets/sheet84.xml",
+      "title": "Figure 24 - Depth of dispatched ESR (Total Accumulated Depth), ESR Capacity Credits and median depth for each weather reference year for ESR Duration Requirement Uplift calculation (MW)  ",
+      "xml_part": "xl/charts/chart68.xml",
+      "xml_file": "data/analysis/chart-xml/chart68.xml",
+      "section": "Appendices",
+      "types": [
+        "barChart",
+        "lineChart"
+      ],
+      "series_count": 3
+    }
+  ],
+  "sheets": [
+    {
+      "name": "Version Control",
+      "title": "Version Control",
+      "part": "xl/worksheets/sheet1.xml",
+      "top_cells": {
+        "A1": "Version Control",
+        "C4": "Version",
+        "D4": "Release date",
+        "E4": "Changes",
+        "C5": "1",
+        "D5": "46196",
+        "E5": "Initial release.",
+        "C6": "2",
+        "D6": "46218",
+        "E6": "\u2022 Corrected legend for Figure 1 and Figure 38.",
+        "E7": "\u2022 Corrected Heading for Figure 1, Figure 9, and Figure 38.   ",
+        "E8": "\u2022 Corrected errors in Figure 7 (from cell I26 to cell T31).   ",
+        "E9": "\u2022 Corrected errors in Figure 15 (cells H122 and H170) and in Figure 16 (cell H42).   ",
+        "E10": "\u2022 Corrected y-axis title spelling for Figure 23.   ",
+        "E11": "\u2022 Corrected y-axis title spelling for Figure 24.   ",
+        "E12": "\u2022 Corrected y-axis title for Figure 9.",
+        "E13": "\u2022 Added clarifying figure notes to Figure 8, Figure 9, Figure A1_10, Figure A1_11, Figure A1_13, and Figure A1_14. "
+      },
+      "drawings": [
+        "xl/drawings/drawing1.xml"
+      ],
+      "charts": 0,
+      "images": 1
+    },
+    {
+      "name": "Contents",
+      "title": "Table of contents for the 2026 WEM ESOO",
+      "part": "xl/worksheets/sheet2.xml",
+      "top_cells": {
+        "A1": "Table of contents for the 2026 WEM ESOO",
+        "A2": "2026 WEM ESOO",
+        "B3": "Figures",
+        "B4": "Figure 1 - Forecast supply-demand balance of forecast peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+        "B5": "Figure 2 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+        "B6": "Figure 3 - The limbs of the Planning Criterion",
+        "B7": "Figure 4 - Overview of how the WEM ESOO features in SWIS planning",
+        "B8": "Figure 5 - 2025 Inputs, Assumptions and Scenarios Report scenarios",
+        "B9": "Figure 6 - Relationship between the components of consumption and demand",
+        "B10": "Figure 7 - Actual and forecast underlying consumption under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+        "B11": "Figure 8 - Actual and forecast underlying electricity consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+        "B12": "Figure 9 - Actual and forecast delivered consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+        "B13": "Figure 10 - Forecast underlying residential consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+        "B14": "Figure 11 - Forecast business underlying consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+        "B15": "Figure 12 - Actual peak demand and forecast 10% POE summer peak unscheduled operational demand under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)"
+      },
+      "drawings": [
+        "xl/drawings/drawing2.xml"
+      ],
+      "charts": 0,
+      "images": 1
+    },
+    {
+      "name": "ES_F.1",
+      "title": "Figure 1 - Forecast supply-demand balance of forecast peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet3.xml",
+      "top_cells": {
+        "A1": "Figure 1 - Forecast supply-demand balance of forecast peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing3.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "ES_F.2",
+      "title": "Figure 2 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet4.xml",
+      "top_cells": {
+        "A1": "Figure 2 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing4.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 1_F.3",
+      "title": "Figure 3 - The limbs of the Planning Criterion",
+      "part": "xl/worksheets/sheet5.xml",
+      "top_cells": {
+        "A1": "Figure 3 - The limbs of the Planning Criterion",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing6.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 1_F.4",
+      "title": "Figure 4 - Overview of how the WEM ESOO features in SWIS planning",
+      "part": "xl/worksheets/sheet6.xml",
+      "top_cells": {
+        "A1": "Figure 4 - Overview of how the WEM ESOO features in SWIS planning",
+        "A2": "Table of Contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing7.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 1_F.5",
+      "title": "Figure 5 - 2025 Inputs, Assumptions and Scenarios Report scenarios",
+      "part": "xl/worksheets/sheet7.xml",
+      "top_cells": {
+        "A1": "Figure 5 - 2025 Inputs, Assumptions and Scenarios Report scenarios",
+        "A2": "Table of Contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing8.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 1_F.6",
+      "title": "Figure 6 - Relationship between the components of consumption and demand",
+      "part": "xl/worksheets/sheet8.xml",
+      "top_cells": {
+        "A1": "Figure 6 - Relationship between the components of consumption and demand",
+        "A2": "Table of Contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing9.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 2_F.7",
+      "title": "Figure 7 - Actual and forecast underlying consumption under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet9.xml",
+      "top_cells": {
+        "A1": "Figure 7 - Actual and forecast underlying consumption under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing10.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.8",
+      "title": "Figure 8 - Actual and forecast underlying electricity consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet10.xml",
+      "top_cells": {
+        "A1": "Figure 8 - Actual and forecast underlying electricity consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing11.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.9",
+      "title": "Figure 9 - Actual and forecast delivered consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet11.xml",
+      "top_cells": {
+        "A1": "Figure 9 - Actual and forecast delivered consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing12.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.10",
+      "title": "Figure 10 - Forecast underlying residential consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet12.xml",
+      "top_cells": {
+        "A1": "Figure 10 - Forecast underlying residential consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing13.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.11",
+      "title": "Figure 11 - Forecast business underlying consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet13.xml",
+      "top_cells": {
+        "A1": "Figure 11 - Forecast business underlying consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing15.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.12",
+      "title": "Figure 12 - Actual peak demand and forecast 10% POE summer peak unscheduled operational demand under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet14.xml",
+      "top_cells": {
+        "A1": "Figure 12 - Actual peak demand and forecast 10% POE summer peak unscheduled operational demand under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing17.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.13",
+      "title": "Figure 13 - 10%, 50%, and 90% POE summer peak unscheduled operational demand forecasts, from 2025 and 2026 WEM ESOOs, Expected scenario, 2024-25 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet15.xml",
+      "top_cells": {
+        "A1": "Figure 13 - 10%, 50%, and 90% POE summer peak unscheduled operational demand forecasts, from 2025 and 2026 WEM ESOOs, Expected scenario, 2024-25 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing18.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.14",
+      "title": "Figure 14 - Modelled reduction of SWIS annual peak unscheduled operational demand due to the virtual power plant, 10% POE Expected scenario, 2026-27 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet16.xml",
+      "top_cells": {
+        "A1": "Figure 14 - Modelled reduction of SWIS annual peak unscheduled operational demand due to the virtual power plant, 10% POE Expected scenario, 2026-27 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing19.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.15",
+      "title": "Figure 15 - Illustration of the modelled behaviour and impact of passive distributed batteries and the virtual power plant on SWIS peak unscheduled operational demand, 2028-29 (based on Reference Year 2024-25) (MW)",
+      "part": "xl/worksheets/sheet17.xml",
+      "top_cells": {
+        "A1": "Figure 15 - Illustration of the modelled behaviour and impact of passive distributed batteries and the virtual power plant on SWIS peak unscheduled operational demand, 2028-29 (based on Reference Year 2024-25) (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing20.xml"
+      ],
+      "charts": 2,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.16",
+      "title": "Figure 16 - Zoom-in on the illustrative modelled behaviour of the VPP, and its impact on SWIS unscheduled peak operational demand, 2028-29 (based on reference year 2024-25) (MW)",
+      "part": "xl/worksheets/sheet18.xml",
+      "top_cells": {
+        "A1": "Figure 16 - Zoom-in on the illustrative modelled behaviour of the VPP, and its impact on SWIS unscheduled peak operational demand, 2028-29 (based on reference year 2024-25) (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing21.xml"
+      ],
+      "charts": 2,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.17",
+      "title": "Figure 17 - Actual and forecast 10% POE winter peak unscheduled operational demand under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet19.xml",
+      "top_cells": {
+        "A1": "Figure 17 - Actual and forecast 10% POE winter peak unscheduled operational demand under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing22.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.18",
+      "title": "Figure 18 - Actual and forecast 90% POE minimum unscheduled opertional demand under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet20.xml",
+      "top_cells": {
+        "A1": "Figure 18 - Actual and forecast 90% POE minimum unscheduled opertional demand under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing23.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.19",
+      "title": "Figure 19 - Actual and 10%, 50%, and 90% POE minimum unscheduled opertional demand forecasts, from 2025 and 2026 WEM ESOOs, Expected scenario, 2019-20 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet21.xml",
+      "top_cells": {
+        "A1": "Figure 19 - Actual and 10%, 50%, and 90% POE minimum unscheduled opertional demand forecasts, from 2025 and 2026 WEM ESOOs, Expected scenario, 2019-20 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing24.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 2_F.20",
+      "title": "Figure 20 - Minimum operational demand forecast and committed Electric Storage Resource entry, 90% POE Expected scenario, 2017-18 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet22.xml",
+      "top_cells": {
+        "A1": "Figure 20 - Minimum operational demand forecast and committed Electric Storage Resource entry, 90% POE Expected scenario, 2017-18 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing25.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 3_F.21",
+      "title": "Figure 21 - Forecast proportion of new capacity by technology type, 2035-36 (%)",
+      "part": "xl/worksheets/sheet23.xml",
+      "top_cells": {
+        "A1": "Figure 21 - Forecast proportion of new capacity by technology type, 2035-36 (%)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing26.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 3_F.22",
+      "title": "Figure 22 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet24.xml",
+      "top_cells": {
+        "A1": "Figure 22 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing27.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 3_F.23",
+      "title": "Figure 23 - Forecast peak capacity with and without Relevant Level Method uplift capacity, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet25.xml",
+      "top_cells": {
+        "A1": "Figure 23 - Forecast peak capacity with and without Relevant Level Method uplift capacity, under three scenarios, 2026-27 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing29.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 3_F.24",
+      "title": "Figure 24 - Forecast flexible capacity by technology type, Expected scenario, 2027-28 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet26.xml",
+      "top_cells": {
+        "A1": "Figure 24 - Forecast flexible capacity by technology type, Expected scenario, 2027-28 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing30.xml"
+      ],
+      "charts": 2,
+      "images": 1
+    },
+    {
+      "name": "Ch 3_F.25",
+      "title": "Figure 25 - Change in actual (2020-21 to 2025-26) and forecast peak capacity in the 2026 WEM ESOO Expected scenario (2026-27 to 2027-28), by technology type (MW)",
+      "part": "xl/worksheets/sheet27.xml",
+      "top_cells": {
+        "A1": "Figure 25 - Change in actual (2020-21 to 2025-26) and forecast peak capacity in the 2026 WEM ESOO Expected scenario (2026-27 to 2027-28), by technology type (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing31.xml"
+      ],
+      "charts": 2,
+      "images": 1
+    },
+    {
+      "name": "Ch 3_F.26",
+      "title": "Figure 26\u00a0- Peak Capacity Credits for 2027-28, by Facility age and technology type, as of 7 May 2026, Expected scenario (MW)",
+      "part": "xl/worksheets/sheet28.xml",
+      "top_cells": {
+        "A1": "Figure 26\u00a0- Peak Capacity Credits for 2027-28, by Facility age and technology type, as of 7 May 2026, Expected scenario (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing32.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 3_F.27",
+      "title": "Figure 27 - Frequency of Forced Outage exceeding the single, two, and three largest generators during the peak Intervals from 2020-21 to 2025-26 Hot Seasons (%)",
+      "part": "xl/worksheets/sheet29.xml",
+      "top_cells": {
+        "A1": "Figure 27 - Frequency of Forced Outage exceeding the single, two, and three largest generators during the peak Intervals from 2020-21 to 2025-26 Hot Seasons (%)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing33.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 3_F.28",
+      "title": "Figure 28 - Daily peak percentage of Capacity Credits on Forced Outage during Hot Season for 2020-21 to 2025-26 (%)",
+      "part": "xl/worksheets/sheet30.xml",
+      "top_cells": {
+        "A1": "Figure 28 - Daily peak percentage of Capacity Credits on Forced Outage during Hot Season for 2020-21 to 2025-26 (%)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing34.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 3_F.29",
+      "title": "Figure 29 - Outage rate (%) and maximum assigned Capacity Credits assigned (MW) by Facility for the 36 months as of 26 April 2026",
+      "part": "xl/worksheets/sheet31.xml",
+      "top_cells": {
+        "A1": "Figure 29 - Outage rate (%) and maximum assigned Capacity Credits assigned (MW) by Facility for the 36 months as of 26 April 2026",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing35.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 4_F.30",
+      "title": "Figure 30 - Illustration of the relationship between Mid Peak ESROI, ESR Duration Requirement, and Peak ESROD",
+      "part": "xl/worksheets/sheet32.xml",
+      "top_cells": {
+        "A1": "Figure 30 - Illustration of the relationship between Mid Peak ESROI, ESR Duration Requirement, and Peak ESROD",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing36.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 4_F.31",
+      "title": "Figure 31 - Illustration of Residual Demand, ESR Dispatch, and Peak ESROD Demand at each Trading Interval for illustration of ESR Duration Requirement assessment for a single peak demand day in a single weather reference year (MW)",
+      "part": "xl/worksheets/sheet33.xml",
+      "top_cells": {
+        "A1": "Figure 31 - Illustration of Residual Demand, ESR Dispatch, and Peak ESROD Demand at each Trading Interval for illustration of ESR Duration Requirement assessment for a single peak demand day in a single weather reference year (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing37.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 4_F.32",
+      "title": "Figure 32 - Reference Demand Profiles for the four highest demand Capacity Years within the Reference Demand Profile Reference Period (MW)",
+      "part": "xl/worksheets/sheet34.xml",
+      "top_cells": {
+        "A1": "Figure 32 - Reference Demand Profiles for the four highest demand Capacity Years within the Reference Demand Profile Reference Period (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing38.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 5_F.33",
+      "title": "Figure 33 - Boxplot of annual unserved energy for 2026-27 to 2035-36, by iteration and reference years (%)",
+      "part": "xl/worksheets/sheet35.xml",
+      "top_cells": {
+        "A1": "Figure 33 - Boxplot of annual unserved energy for 2026-27 to 2035-36, by iteration and reference years (%)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing39.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 5_F.34",
+      "title": "Figure 34 - Modelled supply generation, demand profiles, and expected unserved energy over a two-day period capturing an unserved energy event, including the preceding day in 2026-27 (sample day in March 2027, reference year 2017-18) (MW) ",
+      "part": "xl/worksheets/sheet36.xml",
+      "top_cells": {
+        "A1": "Figure 34 - Modelled supply generation, demand profiles, and expected unserved energy over a two-day period capturing an unserved energy event, including the preceding day in 2026-27 (sample day in March 2027, reference year 2017-18) (MW) ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing40.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 5_F.35",
+      "title": "Figure 35 - Modelled supply generation, demand profiles, and unserved energy over a two-day period, including the preceding day in 2031-32 (sample day in July 2032, reference year 2009-10) (MW)",
+      "part": "xl/worksheets/sheet37.xml",
+      "top_cells": {
+        "A1": "Figure 35 - Modelled supply generation, demand profiles, and unserved energy over a two-day period, including the preceding day in 2031-32 (sample day in July 2032, reference year 2009-10) (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing41.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 5_F.36",
+      "title": "Figure 36 - Modelled time-of-day distribution of unserved energy across the period from 2032-33 to 2035-36 (MWh)",
+      "part": "xl/worksheets/sheet38.xml",
+      "top_cells": {
+        "A1": "Figure 36 - Modelled time-of-day distribution of unserved energy across the period from 2032-33 to 2035-36 (MWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing42.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 5_F.37",
+      "title": "Figure 37 - Annual maximum Four-Hour Demand Increase for 2026-27 to 2029-30 (MW)",
+      "part": "xl/worksheets/sheet39.xml",
+      "top_cells": {
+        "A1": "Figure 37 - Annual maximum Four-Hour Demand Increase for 2026-27 to 2029-30 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing43.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 5_F.38",
+      "title": "Figure 38 - Forecast supply-demand balance of peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet40.xml",
+      "top_cells": {
+        "A1": "Figure 38 - Forecast supply-demand balance of peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing44.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 5_F.39",
+      "title": "Figure 39 - Forecast supply-demand balance of flexible capacity, Expected scenario, 2027-28 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet41.xml",
+      "top_cells": {
+        "A1": "Figure 39 - Forecast supply-demand balance of flexible capacity, Expected scenario, 2027-28 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing45.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 5_F.40",
+      "title": "Figure 40 - Availability Curve, 2027-28 and 2028-29 (MW)",
+      "part": "xl/worksheets/sheet42.xml",
+      "top_cells": {
+        "A1": "Figure 40 - Availability Curve, 2027-28 and 2028-29 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing46.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 6_F.41",
+      "title": "Figure 41 - Sub-regions of the SWIS",
+      "part": "xl/worksheets/sheet43.xml",
+      "top_cells": {
+        "A1": "Figure 41 - Sub-regions of the SWIS",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing47.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 6_F.42",
+      "title": "Figure 42 - Expected unserved energy at the Reference Node compared to all other network sub-regions, 2026-27 to 2035-36 (% annual consumption)",
+      "part": "xl/worksheets/sheet44.xml",
+      "top_cells": {
+        "A1": "Figure 42 - Expected unserved energy at the Reference Node compared to all other network sub-regions, 2026-27 to 2035-36 (% annual consumption)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing48.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 6_F.43",
+      "title": "Figure 43 - Expected unserved energy in the East, Metro North, Metro South and South sub-regions, 2026-27 to 2035-36 (% annual consumption)",
+      "part": "xl/worksheets/sheet45.xml",
+      "top_cells": {
+        "A1": "Figure 43 - Expected unserved energy in the East, Metro North, Metro South and South sub-regions, 2026-27 to 2035-36 (% annual consumption)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing49.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 6_F.44",
+      "title": "Figure 44 - Transmission network and Facilities in the East sub-region",
+      "part": "xl/worksheets/sheet46.xml",
+      "top_cells": {
+        "A1": "Figure 44 - Transmission network and Facilities in the East sub-region",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing50.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 6_F.45",
+      "title": "Figure 45 - Transmission network and facilities in the Kwinana area",
+      "part": "xl/worksheets/sheet47.xml",
+      "top_cells": {
+        "A1": "Figure 45 - Transmission network and facilities in the Kwinana area",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing51.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 6_F.46",
+      "title": "Figure 46 - Transmission network and Facilities in the North sub-region",
+      "part": "xl/worksheets/sheet48.xml",
+      "top_cells": {
+        "A1": "Figure 46 - Transmission network and Facilities in the North sub-region",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing52.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 7_F.47",
+      "title": "Figure 47 - Forecast peak capacity for 2028-29 (MW)",
+      "part": "xl/worksheets/sheet49.xml",
+      "top_cells": {
+        "A1": "Figure 47 - Forecast peak capacity for 2028-29 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing53.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Ch 7_F.48",
+      "title": "Figure 48 - Declared Sent Out Capacity of new projects by regions in the SWIS (MW)",
+      "part": "xl/worksheets/sheet50.xml",
+      "top_cells": {
+        "A1": "Figure 48 - Declared Sent Out Capacity of new projects by regions in the SWIS (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing55.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "Ch 7_F.49",
+      "title": "Figure 49 - Reserve Capacity Price, Benchmark Reserve Capacity Price and capacity excess/deficit, 2017-18 to 2028-29",
+      "part": "xl/worksheets/sheet51.xml",
+      "top_cells": {
+        "A1": "Figure 49 - Reserve Capacity Price, Benchmark Reserve Capacity Price and capacity excess/deficit, 2017-18 to 2028-29",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing56.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "Appendices",
+      "title": "Appendices",
+      "part": "xl/worksheets/sheet52.xml",
+      "top_cells": {},
+      "drawings": [
+        "xl/drawings/drawing57.xml"
+      ],
+      "charts": 0,
+      "images": 1
+    },
+    {
+      "name": "A1_F.1",
+      "title": "Figure 1 - Forecast real economic growth, 2019-20 to 2057-58, financial years (real, %) ",
+      "part": "xl/worksheets/sheet53.xml",
+      "top_cells": {
+        "A1": "Figure 1 - Forecast real economic growth, 2019-20 to 2057-58, financial years (real, %) ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing58.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.2",
+      "title": "Figure 2 - Actual and forecast Western Australian dwellings under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36  ",
+      "part": "xl/worksheets/sheet54.xml",
+      "top_cells": {
+        "A1": "Figure 2 - Actual and forecast Western Australian dwellings under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36  ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing59.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.3",
+      "title": "Figure 3 - Actual and forecast SWIS new connections under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36",
+      "part": "xl/worksheets/sheet55.xml",
+      "top_cells": {
+        "A1": "Figure 3 - Actual and forecast SWIS new connections under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing60.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.4",
+      "title": "Figure 4 - Actual and forecast installed residential distributed photovoltaic capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)  ",
+      "part": "xl/worksheets/sheet56.xml",
+      "top_cells": {
+        "A1": "Figure 4 - Actual and forecast installed residential distributed photovoltaic capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)  ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing61.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.5",
+      "title": "Figure 5 - Actual and forecast installed business distributed PV capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)   ",
+      "part": "xl/worksheets/sheet57.xml",
+      "top_cells": {
+        "A1": "Figure 5 - Actual and forecast installed business distributed PV capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)   ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing62.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.6",
+      "title": "Figure 6 - Forecast delivered consumption resulting from electrification under three scenarios, from 2025 and 2026 WEM ESOOs, 2025-26 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet58.xml",
+      "top_cells": {
+        "A1": "Figure 6 - Forecast delivered consumption resulting from electrification under three scenarios, from 2025 and 2026 WEM ESOOs, 2025-26 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing63.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.7",
+      "title": "Figure 7 - Actual and forecast battery electric vehicle and plug-in hybrid electric vehicle fleet size under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (millions)",
+      "part": "xl/worksheets/sheet59.xml",
+      "top_cells": {
+        "A1": "Figure 7 - Actual and forecast battery electric vehicle and plug-in hybrid electric vehicle fleet size under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (millions)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing64.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.8a",
+      "title": "Figure 8a - Actual and forecast uptake of distributed batteries capacity under three scenarios, from the 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet60.xml",
+      "top_cells": {
+        "A1": "Figure 8a - Actual and forecast uptake of distributed batteries capacity under three scenarios, from the 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing65.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.8b",
+      "title": "Figure 8b - Actual and forecast uptake of distributed batteries capacity under three scenarios, from the 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MWh degraded)",
+      "part": "xl/worksheets/sheet61.xml",
+      "top_cells": {
+        "A1": "Figure 8b - Actual and forecast uptake of distributed batteries capacity under three scenarios, from the 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MWh degraded)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing66.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.9",
+      "title": "Figure 9 - Distributed batteries capacity under three scenarios of the 2026 WEM ESOO spilt by segment, 2026-27 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet62.xml",
+      "top_cells": {
+        "A1": "Figure 9 - Distributed batteries capacity under three scenarios of the 2026 WEM ESOO spilt by segment, 2026-27 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing67.xml"
+      ],
+      "charts": 3,
+      "images": 1
+    },
+    {
+      "name": "A1_F.10",
+      "title": "Figure 10 - Actual and forecast underlying residential electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "part": "xl/worksheets/sheet63.xml",
+      "top_cells": {
+        "A1": "Figure 10 - Actual and forecast underlying residential electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing68.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.11",
+      "title": "Figure 11 - Actual and forecast delivered residential electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "part": "xl/worksheets/sheet64.xml",
+      "top_cells": {
+        "A1": "Figure 11 - Actual and forecast delivered residential electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing69.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.12a",
+      "title": "Figure 12 - Household electricity consumption response to temperature (top left panel) and trends in consumer behaviour across base, cooling and heating load (time series charts) ",
+      "part": "xl/worksheets/sheet65.xml",
+      "top_cells": {
+        "A1": "Figure 12 - Household electricity consumption response to temperature (top left panel) and trends in consumer behaviour across base, cooling and heating load (time series charts) ",
+        "A2": "Table of contents",
+        "B4": "Household electricity consumption response to temperature, 2020-21 to 2024-25 (kWh)",
+        "H4": "Average annual household base load consumption, 2020-21 to 2035-36 (kWh)"
+      },
+      "drawings": [
+        "xl/drawings/drawing70.xml"
+      ],
+      "charts": 0,
+      "images": 5
+    },
+    {
+      "name": "A1_F.12b",
+      "title": "Figure 12b - Household electricity consumption response to temperature, 2020-21 to 2024-25 (kWh)",
+      "part": "xl/worksheets/sheet66.xml",
+      "top_cells": {
+        "A1": "Figure 12b - Household electricity consumption response to temperature, 2020-21 to 2024-25 (kWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing71.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.12c",
+      "title": "Figure 12c - Average annual household base load consumption, 2020-21 to 2035-36 (kWh)",
+      "part": "xl/worksheets/sheet67.xml",
+      "top_cells": {
+        "A1": "Figure 12c - Average annual household base load consumption, 2020-21 to 2035-36 (kWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing72.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.12d",
+      "title": "Figure 12d - Average annual household cooling response consumption, 2020-21 to 2035-36 (kWh/CDD)",
+      "part": "xl/worksheets/sheet68.xml",
+      "top_cells": {
+        "A1": "Figure 12d - Average annual household cooling response consumption, 2020-21 to 2035-36 (kWh/CDD)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing73.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.12e",
+      "title": "Figure 12e - Average annual household heating response consumption, 2020-21 to 2035-36 (kWh/HDD)",
+      "part": "xl/worksheets/sheet69.xml",
+      "top_cells": {
+        "A1": "Figure 12e - Average annual household heating response consumption, 2020-21 to 2035-36 (kWh/HDD)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing74.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.13",
+      "title": "Figure 13 - Actual and forecast business mass market underlying electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "part": "xl/worksheets/sheet70.xml",
+      "top_cells": {
+        "A1": "Figure 13 - Actual and forecast business mass market underlying electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing75.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.14",
+      "title": "Figure 14 - Actual and forecast business mass market delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "part": "xl/worksheets/sheet71.xml",
+      "top_cells": {
+        "A1": "Figure 14 - Actual and forecast business mass market delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing76.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.15",
+      "title": "Figure 15 - Actual and forecast large industrial load delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh) ",
+      "part": "xl/worksheets/sheet72.xml",
+      "top_cells": {
+        "A1": "Figure 15 - Actual and forecast large industrial load delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh) ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing77.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.16",
+      "title": "Figure 16 - Forecast total energy efficiency savings in the business mass market and residential sectors, under three scenarios from the 2025 and 2026 WEM ESOOs, 2024-25 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet73.xml",
+      "top_cells": {
+        "A1": "Figure 16 - Forecast total energy efficiency savings in the business mass market and residential sectors, under three scenarios from the 2025 and 2026 WEM ESOOs, 2024-25 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing78.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.17",
+      "title": "Figure 17 - Actual and forecast new industries delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet74.xml",
+      "top_cells": {
+        "A1": "Figure 17 - Actual and forecast new industries delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing79.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.18",
+      "title": "Figure 18 - Actual and forecast data centres delivered electricity consumption under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet75.xml",
+      "top_cells": {
+        "A1": "Figure 18 - Actual and forecast data centres delivered electricity consumption under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing80.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.19",
+      "title": "Figure 19 - Data centre forecasts methodology: Blending approaches \u2013 project based and economic based forecasts under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet76.xml",
+      "top_cells": {
+        "A1": "Figure 19 - Data centre forecasts methodology: Blending approaches \u2013 project based and economic based forecasts under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing81.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "A1_F.19b",
+      "title": "Figure 19b - Data centre forecasts methodology: Project based approach under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet77.xml",
+      "top_cells": {
+        "A1": "Figure 19b - Data centre forecasts methodology: Project based approach under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing82.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.19c",
+      "title": "Figure 19c - Data centre forecasts methodology: Economic based approach under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet78.xml",
+      "top_cells": {
+        "A1": "Figure 19c - Data centre forecasts methodology: Economic based approach under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing83.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.19d",
+      "title": "Figure 19d - Data centre forecasts methodology: Blending approaches - project based and economic based forecasts under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/worksheets/sheet79.xml",
+      "top_cells": {
+        "A1": "Figure 19d - Data centre forecasts methodology: Blending approaches - project based and economic based forecasts under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing84.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A1_F.20",
+      "title": "Figure 20 - Illustration of the approach to modelling the impact of the virtual power plant on peak demand (MW)",
+      "part": "xl/worksheets/sheet80.xml",
+      "top_cells": {
+        "A1": "Figure 20 - Illustration of the approach to modelling the impact of the virtual power plant on peak demand (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing85.xml"
+      ],
+      "charts": 2,
+      "images": 1
+    },
+    {
+      "name": "A2_F.21",
+      "title": "Figure 21 - Changes in assigned Peak Capacity Credits to Facilities, 2026-27 and 2027-28 (MW)",
+      "part": "xl/worksheets/sheet81.xml",
+      "top_cells": {
+        "A1": "Figure 21 - Changes in assigned Peak Capacity Credits to Facilities, 2026-27 and 2027-28 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing86.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A3_F.22",
+      "title": "Figure 22 - Difference between forecast supply capacity and maximum quantity of power injectable to the SWIS, wind and solar generators, Expected scenario, 2026-27 to 2035-36 (MW)",
+      "part": "xl/worksheets/sheet82.xml",
+      "top_cells": {
+        "A1": "Figure 22 - Difference between forecast supply capacity and maximum quantity of power injectable to the SWIS, wind and solar generators, Expected scenario, 2026-27 to 2035-36 (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing87.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A4_F.23",
+      "title": "Figure 23 - Depth of tranches and operational demand estimate for ESR Duration Requirement Uplift calculation based on the 2009-10 weather reference year (MW)",
+      "part": "xl/worksheets/sheet83.xml",
+      "top_cells": {
+        "A1": "Figure 23 - Depth of tranches and operational demand estimate for ESR Duration Requirement Uplift calculation based on the 2009-10 weather reference year (MW)",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing88.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A4_F.24",
+      "title": "Figure 24 - Depth of dispatched ESR (Total Accumulated Depth), ESR Capacity Credits and median depth for each weather reference year for ESR Duration Requirement Uplift calculation (MW)  ",
+      "part": "xl/worksheets/sheet84.xml",
+      "top_cells": {
+        "A1": "Figure 24 - Depth of dispatched ESR (Total Accumulated Depth), ESR Capacity Credits and median depth for each weather reference year for ESR Duration Requirement Uplift calculation (MW)  ",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing89.xml"
+      ],
+      "charts": 1,
+      "images": 1
+    },
+    {
+      "name": "A4_F.25",
+      "title": "Figure 25 - Largest daily unserved energy events from each weather reference year, coloured according to system conditions, 2026-27 to 2029-30",
+      "part": "xl/worksheets/sheet85.xml",
+      "top_cells": {
+        "A1": "Figure 25 - Largest daily unserved energy events from each weather reference year, coloured according to system conditions, 2026-27 to 2029-30",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing90.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "A4_F.26",
+      "title": "Figure 26 - Largest daily unserved energy events from each weather reference year, coloured according to system conditions, 2031-32 to 2034-35",
+      "part": "xl/worksheets/sheet86.xml",
+      "top_cells": {
+        "A1": "Figure 26 - Largest daily unserved energy events from each weather reference year, coloured according to system conditions, 2031-32 to 2034-35",
+        "A2": "Table of contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing91.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "A4_F.27",
+      "title": "Figure 27 - Simulated unserved energy duration, magnitude and frequency for 2030-31",
+      "part": "xl/worksheets/sheet87.xml",
+      "top_cells": {
+        "A1": "Figure 27 - Simulated unserved energy duration, magnitude and frequency for 2030-31",
+        "A2": "Table of Contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing92.xml"
+      ],
+      "charts": 0,
+      "images": 2
+    },
+    {
+      "name": "A4_F.28",
+      "title": "Figure 28 - Modelled outcomes across two-day period capturing an unserved energy event (top), battery utilisation (middle), gas utilisation (bottom)",
+      "part": "xl/worksheets/sheet88.xml",
+      "top_cells": {
+        "A1": "Figure 28 - Modelled outcomes across two-day period capturing an unserved energy event (top), battery utilisation (middle), gas utilisation (bottom)",
+        "A2": "Table of Contents"
+      },
+      "drawings": [
+        "xl/drawings/drawing93.xml"
+      ],
+      "charts": 0,
+      "images": 3
+    }
+  ],
+  "images": [
+    {
+      "sheet": "Version Control",
+      "title": "Version Control",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Contents",
+      "title": "Table of contents for the 2026 WEM ESOO",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "ES_F.1",
+      "title": "Figure 1 - Forecast supply-demand balance of forecast peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "ES_F.2",
+      "title": "Figure 2 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 1_F.3",
+      "title": "Figure 3 - The limbs of the Planning Criterion",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 1_F.3",
+      "title": "Figure 3 - The limbs of the Planning Criterion",
+      "part": "xl/media/image3.png",
+      "file": "data/analysis/images/image3.png"
+    },
+    {
+      "sheet": "Ch 1_F.4",
+      "title": "Figure 4 - Overview of how the WEM ESOO features in SWIS planning",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 1_F.4",
+      "title": "Figure 4 - Overview of how the WEM ESOO features in SWIS planning",
+      "part": "xl/media/image4.png",
+      "file": "data/analysis/images/image4.png"
+    },
+    {
+      "sheet": "Ch 1_F.5",
+      "title": "Figure 5 - 2025 Inputs, Assumptions and Scenarios Report scenarios",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 1_F.5",
+      "title": "Figure 5 - 2025 Inputs, Assumptions and Scenarios Report scenarios",
+      "part": "xl/media/image5.png",
+      "file": "data/analysis/images/image5.png"
+    },
+    {
+      "sheet": "Ch 1_F.6",
+      "title": "Figure 6 - Relationship between the components of consumption and demand",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 1_F.6",
+      "title": "Figure 6 - Relationship between the components of consumption and demand",
+      "part": "xl/media/image7.png",
+      "file": "data/analysis/images/image7.png"
+    },
+    {
+      "sheet": "Ch 2_F.7",
+      "title": "Figure 7 - Actual and forecast underlying consumption under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.8",
+      "title": "Figure 8 - Actual and forecast underlying electricity consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.9",
+      "title": "Figure 9 - Actual and forecast delivered consumption by component, Expected scenario, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.10",
+      "title": "Figure 10 - Forecast underlying residential consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.11",
+      "title": "Figure 11 - Forecast business underlying consumption by component, Expected scenario, 2025-26 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.12",
+      "title": "Figure 12 - Actual peak demand and forecast 10% POE summer peak unscheduled operational demand under three scenarios from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.13",
+      "title": "Figure 13 - 10%, 50%, and 90% POE summer peak unscheduled operational demand forecasts, from 2025 and 2026 WEM ESOOs, Expected scenario, 2024-25 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.14",
+      "title": "Figure 14 - Modelled reduction of SWIS annual peak unscheduled operational demand due to the virtual power plant, 10% POE Expected scenario, 2026-27 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.15",
+      "title": "Figure 15 - Illustration of the modelled behaviour and impact of passive distributed batteries and the virtual power plant on SWIS peak unscheduled operational demand, 2028-29 (based on Reference Year 2024-25) (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.16",
+      "title": "Figure 16 - Zoom-in on the illustrative modelled behaviour of the VPP, and its impact on SWIS unscheduled peak operational demand, 2028-29 (based on reference year 2024-25) (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.17",
+      "title": "Figure 17 - Actual and forecast 10% POE winter peak unscheduled operational demand under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.18",
+      "title": "Figure 18 - Actual and forecast 90% POE minimum unscheduled opertional demand under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.19",
+      "title": "Figure 19 - Actual and 10%, 50%, and 90% POE minimum unscheduled opertional demand forecasts, from 2025 and 2026 WEM ESOOs, Expected scenario, 2019-20 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 2_F.20",
+      "title": "Figure 20 - Minimum operational demand forecast and committed Electric Storage Resource entry, 90% POE Expected scenario, 2017-18 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.21",
+      "title": "Figure 21 - Forecast proportion of new capacity by technology type, 2035-36 (%)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.21",
+      "title": "Figure 21 - Forecast proportion of new capacity by technology type, 2035-36 (%)",
+      "part": "xl/media/image8.png",
+      "file": "data/analysis/images/image8.png"
+    },
+    {
+      "sheet": "Ch 3_F.22",
+      "title": "Figure 22 - Forecast peak capacity by technology type, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.23",
+      "title": "Figure 23 - Forecast peak capacity with and without Relevant Level Method uplift capacity, under three scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.24",
+      "title": "Figure 24 - Forecast flexible capacity by technology type, Expected scenario, 2027-28 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.25",
+      "title": "Figure 25 - Change in actual (2020-21 to 2025-26) and forecast peak capacity in the 2026 WEM ESOO Expected scenario (2026-27 to 2027-28), by technology type (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.26",
+      "title": "Figure 26\u00a0- Peak Capacity Credits for 2027-28, by Facility age and technology type, as of 7 May 2026, Expected scenario (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.27",
+      "title": "Figure 27 - Frequency of Forced Outage exceeding the single, two, and three largest generators during the peak Intervals from 2020-21 to 2025-26 Hot Seasons (%)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.28",
+      "title": "Figure 28 - Daily peak percentage of Capacity Credits on Forced Outage during Hot Season for 2020-21 to 2025-26 (%)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 3_F.29",
+      "title": "Figure 29 - Outage rate (%) and maximum assigned Capacity Credits assigned (MW) by Facility for the 36 months as of 26 April 2026",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 4_F.30",
+      "title": "Figure 30 - Illustration of the relationship between Mid Peak ESROI, ESR Duration Requirement, and Peak ESROD",
+      "part": "xl/media/image9.png",
+      "file": "data/analysis/images/image9.png"
+    },
+    {
+      "sheet": "Ch 4_F.30",
+      "title": "Figure 30 - Illustration of the relationship between Mid Peak ESROI, ESR Duration Requirement, and Peak ESROD",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 4_F.31",
+      "title": "Figure 31 - Illustration of Residual Demand, ESR Dispatch, and Peak ESROD Demand at each Trading Interval for illustration of ESR Duration Requirement assessment for a single peak demand day in a single weather reference year (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 4_F.32",
+      "title": "Figure 32 - Reference Demand Profiles for the four highest demand Capacity Years within the Reference Demand Profile Reference Period (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.33",
+      "title": "Figure 33 - Boxplot of annual unserved energy for 2026-27 to 2035-36, by iteration and reference years (%)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.33",
+      "title": "Figure 33 - Boxplot of annual unserved energy for 2026-27 to 2035-36, by iteration and reference years (%)",
+      "part": "xl/media/image10.png",
+      "file": "data/analysis/images/image10.png"
+    },
+    {
+      "sheet": "Ch 5_F.34",
+      "title": "Figure 34 - Modelled supply generation, demand profiles, and expected unserved energy over a two-day period capturing an unserved energy event, including the preceding day in 2026-27 (sample day in March 2027, reference year 2017-18) (MW) ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.34",
+      "title": "Figure 34 - Modelled supply generation, demand profiles, and expected unserved energy over a two-day period capturing an unserved energy event, including the preceding day in 2026-27 (sample day in March 2027, reference year 2017-18) (MW) ",
+      "part": "xl/media/image12.png",
+      "file": "data/analysis/images/image12.png"
+    },
+    {
+      "sheet": "Ch 5_F.35",
+      "title": "Figure 35 - Modelled supply generation, demand profiles, and unserved energy over a two-day period, including the preceding day in 2031-32 (sample day in July 2032, reference year 2009-10) (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.35",
+      "title": "Figure 35 - Modelled supply generation, demand profiles, and unserved energy over a two-day period, including the preceding day in 2031-32 (sample day in July 2032, reference year 2009-10) (MW)",
+      "part": "xl/media/image13.png",
+      "file": "data/analysis/images/image13.png"
+    },
+    {
+      "sheet": "Ch 5_F.36",
+      "title": "Figure 36 - Modelled time-of-day distribution of unserved energy across the period from 2032-33 to 2035-36 (MWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.36",
+      "title": "Figure 36 - Modelled time-of-day distribution of unserved energy across the period from 2032-33 to 2035-36 (MWh)",
+      "part": "xl/media/image14.png",
+      "file": "data/analysis/images/image14.png"
+    },
+    {
+      "sheet": "Ch 5_F.37",
+      "title": "Figure 37 - Annual maximum Four-Hour Demand Increase for 2026-27 to 2029-30 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.38",
+      "title": "Figure 38 - Forecast supply-demand balance of peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.39",
+      "title": "Figure 39 - Forecast supply-demand balance of flexible capacity, Expected scenario, 2027-28 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.40",
+      "title": "Figure 40 - Availability Curve, 2027-28 and 2028-29 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 5_F.40",
+      "title": "Figure 40 - Availability Curve, 2027-28 and 2028-29 (MW)",
+      "part": "xl/media/image15.png",
+      "file": "data/analysis/images/image15.png"
+    },
+    {
+      "sheet": "Ch 6_F.41",
+      "title": "Figure 41 - Sub-regions of the SWIS",
+      "part": "xl/media/image16.png",
+      "file": "data/analysis/images/image16.png"
+    },
+    {
+      "sheet": "Ch 6_F.41",
+      "title": "Figure 41 - Sub-regions of the SWIS",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 6_F.42",
+      "title": "Figure 42 - Expected unserved energy at the Reference Node compared to all other network sub-regions, 2026-27 to 2035-36 (% annual consumption)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 6_F.42",
+      "title": "Figure 42 - Expected unserved energy at the Reference Node compared to all other network sub-regions, 2026-27 to 2035-36 (% annual consumption)",
+      "part": "xl/media/image18.png",
+      "file": "data/analysis/images/image18.png"
+    },
+    {
+      "sheet": "Ch 6_F.43",
+      "title": "Figure 43 - Expected unserved energy in the East, Metro North, Metro South and South sub-regions, 2026-27 to 2035-36 (% annual consumption)",
+      "part": "xl/media/image19.png",
+      "file": "data/analysis/images/image19.png"
+    },
+    {
+      "sheet": "Ch 6_F.43",
+      "title": "Figure 43 - Expected unserved energy in the East, Metro North, Metro South and South sub-regions, 2026-27 to 2035-36 (% annual consumption)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 6_F.44",
+      "title": "Figure 44 - Transmission network and Facilities in the East sub-region",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 6_F.44",
+      "title": "Figure 44 - Transmission network and Facilities in the East sub-region",
+      "part": "xl/media/image20.png",
+      "file": "data/analysis/images/image20.png"
+    },
+    {
+      "sheet": "Ch 6_F.45",
+      "title": "Figure 45 - Transmission network and facilities in the Kwinana area",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 6_F.45",
+      "title": "Figure 45 - Transmission network and facilities in the Kwinana area",
+      "part": "xl/media/image21.png",
+      "file": "data/analysis/images/image21.png"
+    },
+    {
+      "sheet": "Ch 6_F.46",
+      "title": "Figure 46 - Transmission network and Facilities in the North sub-region",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 6_F.46",
+      "title": "Figure 46 - Transmission network and Facilities in the North sub-region",
+      "part": "xl/media/image22.png",
+      "file": "data/analysis/images/image22.png"
+    },
+    {
+      "sheet": "Ch 7_F.47",
+      "title": "Figure 47 - Forecast peak capacity for 2028-29 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 7_F.48",
+      "title": "Figure 48 - Declared Sent Out Capacity of new projects by regions in the SWIS (MW)",
+      "part": "xl/media/image23.png",
+      "file": "data/analysis/images/image23.png"
+    },
+    {
+      "sheet": "Ch 7_F.48",
+      "title": "Figure 48 - Declared Sent Out Capacity of new projects by regions in the SWIS (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Ch 7_F.49",
+      "title": "Figure 49 - Reserve Capacity Price, Benchmark Reserve Capacity Price and capacity excess/deficit, 2017-18 to 2028-29",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "Appendices",
+      "title": "Appendices",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.1",
+      "title": "Figure 1 - Forecast real economic growth, 2019-20 to 2057-58, financial years (real, %) ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.2",
+      "title": "Figure 2 - Actual and forecast Western Australian dwellings under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36  ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.3",
+      "title": "Figure 3 - Actual and forecast SWIS new connections under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.4",
+      "title": "Figure 4 - Actual and forecast installed residential distributed photovoltaic capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)  ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.5",
+      "title": "Figure 5 - Actual and forecast installed business distributed PV capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)   ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.6",
+      "title": "Figure 6 - Forecast delivered consumption resulting from electrification under three scenarios, from 2025 and 2026 WEM ESOOs, 2025-26 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.7",
+      "title": "Figure 7 - Actual and forecast battery electric vehicle and plug-in hybrid electric vehicle fleet size under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (millions)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.8a",
+      "title": "Figure 8a - Actual and forecast uptake of distributed batteries capacity under three scenarios, from the 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.8b",
+      "title": "Figure 8b - Actual and forecast uptake of distributed batteries capacity under three scenarios, from the 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MWh degraded)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.9",
+      "title": "Figure 9 - Distributed batteries capacity under three scenarios of the 2026 WEM ESOO spilt by segment, 2026-27 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.10",
+      "title": "Figure 10 - Actual and forecast underlying residential electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.11",
+      "title": "Figure 11 - Actual and forecast delivered residential electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.12a",
+      "title": "Figure 12 - Household electricity consumption response to temperature (top left panel) and trends in consumer behaviour across base, cooling and heating load (time series charts) ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.12a",
+      "title": "Figure 12 - Household electricity consumption response to temperature (top left panel) and trends in consumer behaviour across base, cooling and heating load (time series charts) ",
+      "part": "xl/media/image24.png",
+      "file": "data/analysis/images/image24.png"
+    },
+    {
+      "sheet": "A1_F.12a",
+      "title": "Figure 12 - Household electricity consumption response to temperature (top left panel) and trends in consumer behaviour across base, cooling and heating load (time series charts) ",
+      "part": "xl/media/image26.png",
+      "file": "data/analysis/images/image26.png"
+    },
+    {
+      "sheet": "A1_F.12a",
+      "title": "Figure 12 - Household electricity consumption response to temperature (top left panel) and trends in consumer behaviour across base, cooling and heating load (time series charts) ",
+      "part": "xl/media/image28.png",
+      "file": "data/analysis/images/image28.png"
+    },
+    {
+      "sheet": "A1_F.12a",
+      "title": "Figure 12 - Household electricity consumption response to temperature (top left panel) and trends in consumer behaviour across base, cooling and heating load (time series charts) ",
+      "part": "xl/media/image30.png",
+      "file": "data/analysis/images/image30.png"
+    },
+    {
+      "sheet": "A1_F.12b",
+      "title": "Figure 12b - Household electricity consumption response to temperature, 2020-21 to 2024-25 (kWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.12c",
+      "title": "Figure 12c - Average annual household base load consumption, 2020-21 to 2035-36 (kWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.12d",
+      "title": "Figure 12d - Average annual household cooling response consumption, 2020-21 to 2035-36 (kWh/CDD)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.12e",
+      "title": "Figure 12e - Average annual household heating response consumption, 2020-21 to 2035-36 (kWh/HDD)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.13",
+      "title": "Figure 13 - Actual and forecast business mass market underlying electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.14",
+      "title": "Figure 14 - Actual and forecast business mass market delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)  ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.15",
+      "title": "Figure 15 - Actual and forecast large industrial load delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh) ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.16",
+      "title": "Figure 16 - Forecast total energy efficiency savings in the business mass market and residential sectors, under three scenarios from the 2025 and 2026 WEM ESOOs, 2024-25 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.17",
+      "title": "Figure 17 - Actual and forecast new industries delivered electricity consumption under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.18",
+      "title": "Figure 18 - Actual and forecast data centres delivered electricity consumption under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.19",
+      "title": "Figure 19 - Data centre forecasts methodology: Blending approaches \u2013 project based and economic based forecasts under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.19",
+      "title": "Figure 19 - Data centre forecasts methodology: Blending approaches \u2013 project based and economic based forecasts under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image32.png",
+      "file": "data/analysis/images/image32.png"
+    },
+    {
+      "sheet": "A1_F.19b",
+      "title": "Figure 19b - Data centre forecasts methodology: Project based approach under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.19c",
+      "title": "Figure 19c - Data centre forecasts methodology: Economic based approach under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.19d",
+      "title": "Figure 19d - Data centre forecasts methodology: Blending approaches - project based and economic based forecasts under three scenarios, 2026 WEM ESOO, 2019-20 to 2035-36 (TWh)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A1_F.20",
+      "title": "Figure 20 - Illustration of the approach to modelling the impact of the virtual power plant on peak demand (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A2_F.21",
+      "title": "Figure 21 - Changes in assigned Peak Capacity Credits to Facilities, 2026-27 and 2027-28 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A3_F.22",
+      "title": "Figure 22 - Difference between forecast supply capacity and maximum quantity of power injectable to the SWIS, wind and solar generators, Expected scenario, 2026-27 to 2035-36 (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A4_F.23",
+      "title": "Figure 23 - Depth of tranches and operational demand estimate for ESR Duration Requirement Uplift calculation based on the 2009-10 weather reference year (MW)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A4_F.24",
+      "title": "Figure 24 - Depth of dispatched ESR (Total Accumulated Depth), ESR Capacity Credits and median depth for each weather reference year for ESR Duration Requirement Uplift calculation (MW)  ",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A4_F.25",
+      "title": "Figure 25 - Largest daily unserved energy events from each weather reference year, coloured according to system conditions, 2026-27 to 2029-30",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A4_F.25",
+      "title": "Figure 25 - Largest daily unserved energy events from each weather reference year, coloured according to system conditions, 2026-27 to 2029-30",
+      "part": "xl/media/image33.png",
+      "file": "data/analysis/images/image33.png"
+    },
+    {
+      "sheet": "A4_F.26",
+      "title": "Figure 26 - Largest daily unserved energy events from each weather reference year, coloured according to system conditions, 2031-32 to 2034-35",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A4_F.26",
+      "title": "Figure 26 - Largest daily unserved energy events from each weather reference year, coloured according to system conditions, 2031-32 to 2034-35",
+      "part": "xl/media/image34.png",
+      "file": "data/analysis/images/image34.png"
+    },
+    {
+      "sheet": "A4_F.27",
+      "title": "Figure 27 - Simulated unserved energy duration, magnitude and frequency for 2030-31",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A4_F.27",
+      "title": "Figure 27 - Simulated unserved energy duration, magnitude and frequency for 2030-31",
+      "part": "xl/media/image35.png",
+      "file": "data/analysis/images/image35.png"
+    },
+    {
+      "sheet": "A4_F.28",
+      "title": "Figure 28 - Modelled outcomes across two-day period capturing an unserved energy event (top), battery utilisation (middle), gas utilisation (bottom)",
+      "part": "xl/media/image1.png",
+      "file": "data/analysis/images/image1.png"
+    },
+    {
+      "sheet": "A4_F.28",
+      "title": "Figure 28 - Modelled outcomes across two-day period capturing an unserved energy event (top), battery utilisation (middle), gas utilisation (bottom)",
+      "part": "xl/media/image36.png",
+      "file": "data/analysis/images/image36.png"
+    },
+    {
+      "sheet": "A4_F.28",
+      "title": "Figure 28 - Modelled outcomes across two-day period capturing an unserved energy event (top), battery utilisation (middle), gas utilisation (bottom)",
+      "part": "xl/media/image37.png",
+      "file": "data/analysis/images/image37.png"
+    }
+  ]
+}

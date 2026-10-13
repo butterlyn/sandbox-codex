@@ -1,0 +1,21 @@
+{
+  "figures": 97,
+  "native_chart_objects": 68,
+  "interactive": 80,
+  "reference": 15,
+  "unavailable": 2,
+  "payload_bytes": 23640644,
+  "gzip_bytes": 9960603,
+  "html_bytes": 18089639,
+  "groups": [
+    "group_1.json",
+    "group_2.json",
+    "group_3.json",
+    "group_4.json",
+    "group_5.json",
+    "supplemental.json",
+    "supplemental_duration.json",
+    "supplemental_events.json",
+    "supplemental_network.json"
+  ]
+}

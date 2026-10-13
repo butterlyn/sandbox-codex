@@ -1,0 +1,1439 @@
+{
+  "charts": [
+    {
+      "chart_number": 29,
+      "sheet": "Ch 4_F.31",
+      "title": "Figure 31 - Illustration of Residual Demand, ESR Dispatch, and Peak ESROD Demand at each Trading Interval for illustration of ESR Duration Requirement assessment for a single peak demand day in a single weather reference year (MW)",
+      "series_count": 3,
+      "numeric_points": 144,
+      "checks": [
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'Ch 4_F.31'!$B$25:$B$72",
+          "original_formula": "'Ch 4_F.31'!$B$25:$B$72",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'Ch 4_F.31'!$E$25:$E$72",
+          "original_formula": "'Ch 4_F.31'!$E$25:$E$72",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'Ch 4_F.31'!$B$25:$B$72",
+          "original_formula": "'Ch 4_F.31'!$B$25:$B$72",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'Ch 4_F.31'!$D$25:$D$72",
+          "original_formula": "'Ch 4_F.31'!$D$25:$D$72",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'Ch 4_F.31'!$B$25:$B$72",
+          "original_formula": null,
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'Ch 4_F.31'!$F$25:$F$72",
+          "original_formula": "'Ch 4_F.31'!$F$25:$F$72",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "Trading intervals run from 08:00 to 07:30 the following day. The dashed Peak ESROD Demand line shares the same 48 intervals and MW axis as the stacked columns."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 30,
+      "sheet": "Ch 4_F.32",
+      "title": "Figure 32 - Reference Demand Profiles for the four highest demand Capacity Years within the Reference Demand Profile Reference Period (MW)",
+      "series_count": 5,
+      "numeric_points": 87701,
+      "checks": [
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "original_formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'Ch 4_F.32'!$C$25:$C$17593",
+          "original_formula": "'Ch 4_F.32'!$C$25:$C$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "original_formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'Ch 4_F.32'!$D$25:$D$17593",
+          "original_formula": "'Ch 4_F.32'!$D$25:$D$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "original_formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'Ch 4_F.32'!$E$25:$E$17593",
+          "original_formula": "'Ch 4_F.32'!$E$25:$E$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "original_formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'Ch 4_F.32'!$F$25:$F$17593",
+          "original_formula": "'Ch 4_F.32'!$F$25:$F$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "original_formula": "'Ch 4_F.32'!$B$25:$B$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'Ch 4_F.32'!$G$25:$G$17593",
+          "original_formula": "'Ch 4_F.32'!$G$25:$G$17593",
+          "points_checked": 17569,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "All 17,569 saved interval positions are retained. The 2020-21, 2021-22 and 2024-25 profiles contain 17,521 values and 48 trailing blanks; the 2023-24 profile and dispatch-threshold series contain all 17,569 values."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 31,
+      "sheet": "Ch 5_F.37",
+      "title": "Figure 37 - Annual maximum Four-Hour Demand Increase for 2026-27 to 2029-30 (MW)",
+      "series_count": 4,
+      "numeric_points": 192,
+      "checks": [
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'Ch 5_F.37'!$B$26:$B$73",
+          "original_formula": "'Ch 5_F.37'!$B$26:$B$73",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'Ch 5_F.37'!$C$26:$C$73",
+          "original_formula": "'Ch 5_F.37'!$C$26:$C$73",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'Ch 5_F.37'!$B$26:$B$73",
+          "original_formula": "'Ch 5_F.37'!$B$26:$B$73",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'Ch 5_F.37'!$D$26:$D$73",
+          "original_formula": "'Ch 5_F.37'!$D$26:$D$73",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'Ch 5_F.37'!$B$26:$B$73",
+          "original_formula": "'Ch 5_F.37'!$B$26:$B$73",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'Ch 5_F.37'!$E$26:$E$73",
+          "original_formula": "'Ch 5_F.37'!$E$26:$E$73",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'Ch 5_F.37'!$B$26:$B$73",
+          "original_formula": "'Ch 5_F.37'!$B$26:$B$73",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'Ch 5_F.37'!$F$26:$F$73",
+          "original_formula": "'Ch 5_F.37'!$F$26:$F$73",
+          "points_checked": 48,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 32,
+      "sheet": "Ch 5_F.38",
+      "title": "Figure 38 - Forecast supply-demand balance of peak capacity, Expected and High scenarios, 2026-27 to 2035-36 (MW)",
+      "series_count": 6,
+      "numeric_points": 58,
+      "checks": [
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "original_formula": "'Ch 5_F.38'!#REF!",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'Ch 5_F.38'!$E$27:$N$27",
+          "original_formula": "'Ch 5_F.38'!$E$27:$N$27",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "original_formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'Ch 5_F.38'!$E$24:$N$24",
+          "original_formula": "'Ch 5_F.38'!$E$24:$N$24",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "original_formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'Ch 5_F.38'!$E$25:$N$25",
+          "original_formula": "'Ch 5_F.38'!$E$25:$N$25",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "original_formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'Ch 5_F.38'!$E$26:$N$26",
+          "original_formula": "'Ch 5_F.38'!$E$26:$N$26",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "original_formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'Ch 5_F.38'!$E$28:$N$28",
+          "original_formula": "'Ch 5_F.38'!$E$28:$N$28",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "x",
+          "formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "original_formula": "'Ch 5_F.38'!$E$23:$N$23",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "y",
+          "formula": "'Ch 5_F.38'!$E$29:$N$29",
+          "original_formula": "'Ch 5_F.38'!$E$29:$N$29",
+          "points_checked": 10,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "Invalid category reference 'Ch 5_F.38'!#REF! repaired using sibling series categories 'Ch 5_F.38'!$E$23:$N$23; values are unchanged."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 33,
+      "sheet": "Ch 5_F.39",
+      "title": "Figure 39 - Forecast supply-demand balance of flexible capacity, Expected scenario, 2027-28 to 2035-36 (MW)",
+      "series_count": 4,
+      "numeric_points": 34,
+      "checks": [
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'Ch 5_F.39'!$D$23:$L$23",
+          "original_formula": "'Ch 5_F.39'!$D$23:$L$23",
+          "points_checked": 9,
+          "mismatch_count": 0,
+          "normalization": "Whitespace-only category differences are ignored."
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'Ch 5_F.39'!$D$24:$L$24",
+          "original_formula": "'Ch 5_F.39'!$D$24:$L$24",
+          "points_checked": 9,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 8,
+          "direction": "x",
+          "formula": "'Ch 5_F.39'!$D$23:$L$23",
+          "original_formula": "'Ch 5_F.39'!$D$23:$L$23",
+          "points_checked": 9,
+          "mismatch_count": 0,
+          "normalization": "Whitespace-only category differences are ignored."
+        },
+        {
+          "series_index": 8,
+          "direction": "y",
+          "formula": "'Ch 5_F.39'!$D$25:$L$25",
+          "original_formula": "'Ch 5_F.39'!$D$25:$L$25",
+          "points_checked": 9,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'Ch 5_F.39'!$D$23:$L$23",
+          "original_formula": null,
+          "points_checked": 9,
+          "mismatch_count": 0,
+          "normalization": "Whitespace-only category differences are ignored."
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'Ch 5_F.39'!$D$27:$L$27",
+          "original_formula": "'Ch 5_F.39'!$D$27:$L$27",
+          "points_checked": 9,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'Ch 5_F.39'!$D$23:$L$23",
+          "original_formula": null,
+          "points_checked": 9,
+          "mismatch_count": 0,
+          "normalization": "Whitespace-only category differences are ignored."
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'Ch 5_F.39'!$D$28:$L$28",
+          "original_formula": "'Ch 5_F.39'!$D$28:$L$28",
+          "points_checked": 9,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 34,
+      "sheet": "Ch 7_F.47",
+      "title": "Figure 47 - Forecast peak capacity for 2028-29 (MW)",
+      "series_count": 5,
+      "numeric_points": 23,
+      "checks": [
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'Ch 7_F.47'!$B$26:$B$30",
+          "original_formula": "'Ch 7_F.47'!$B$26:$B$30",
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'Ch 7_F.47'!$G$26:$G$30",
+          "original_formula": null,
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'Ch 7_F.47'!$B$26:$B$30",
+          "original_formula": "'Ch 7_F.47'!$B$26:$B$30",
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'Ch 7_F.47'!$D$26:$D$30",
+          "original_formula": "'Ch 7_F.47'!$D$26:$D$30",
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'Ch 7_F.47'!$B$26:$B$30",
+          "original_formula": "'Ch 7_F.47'!$B$26:$B$30",
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'Ch 7_F.47'!$E$26:$E$30",
+          "original_formula": "'Ch 7_F.47'!$E$26:$E$30",
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'Ch 7_F.47'!$B$26:$B$30",
+          "original_formula": "'Ch 7_F.47'!$B$26:$B$30",
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'Ch 7_F.47'!$F$26:$F$30",
+          "original_formula": "'Ch 7_F.47'!$F$26:$F$30",
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'Ch 7_F.47'!$C$26:$C$30",
+          "original_formula": null,
+          "points_checked": 5,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "The transparent baseline series reproduces Excel’s waterfall offsets for committed capacity, RLM uplift and anticipated capacity. The RCT is 6,323 MW on the same MW scale; the final column is total forecast available capacity."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 35,
+      "sheet": "Ch 7_F.49",
+      "title": "Figure 49 - Reserve Capacity Price, Benchmark Reserve Capacity Price and capacity excess/deficit, 2017-18 to 2028-29",
+      "series_count": 4,
+      "numeric_points": 41,
+      "checks": [
+        {
+          "series_index": 5,
+          "direction": "y",
+          "formula": "'Ch 7_F.49'!$I$28:$I$39",
+          "original_formula": "'Ch 7_F.49'!$I$28:$I$39",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 8,
+          "direction": "x",
+          "formula": "'Ch 7_F.49'!$B$28:$B$39",
+          "original_formula": "'Ch 7_F.49'!$B$28:$B$39",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 8,
+          "direction": "y",
+          "formula": "'Ch 7_F.49'!$D$28:$D$39",
+          "original_formula": "'Ch 7_F.49'!$D$28:$D$39",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'Ch 7_F.49'!$B$28:$B$39",
+          "original_formula": "'Ch 7_F.49'!$B$28:$B$39",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'Ch 7_F.49'!$E$28:$E$39",
+          "original_formula": "'Ch 7_F.49'!$E$28:$E$39",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'Ch 7_F.49'!$B$28:$B$39",
+          "original_formula": "'Ch 7_F.49'!$B$28:$B$39",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'Ch 7_F.49'!$C$28:$C$39",
+          "original_formula": "'Ch 7_F.49'!$C$28:$C$39",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "Price lines use the left axis ($ per MW per year); excess/deficit columns use the right axis (MW). Axis ranges match report Figure 49. The 2028-29 capacity and Peak RC Price cells are blank; only Benchmark RC Price is published for that year."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 36,
+      "sheet": "A1_F.1",
+      "title": "Figure 1 - Forecast real economic growth, 2019-20 to 2057-58, financial years (real, %)",
+      "series_count": 3,
+      "numeric_points": 117,
+      "checks": [
+        {
+          "series_index": 5,
+          "direction": "x",
+          "formula": "'A1_F.1'!$B$24:$B$62",
+          "original_formula": "'A1_F.1'!$B$24:$B$62",
+          "points_checked": 39,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "y",
+          "formula": "'A1_F.1'!$D$24:$D$62",
+          "original_formula": "'A1_F.1'!$D$24:$D$62",
+          "points_checked": 39,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'A1_F.1'!$B$24:$B$62",
+          "original_formula": "'A1_F.1'!$B$24:$B$62",
+          "points_checked": 39,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'A1_F.1'!$E$24:$E$62",
+          "original_formula": "'A1_F.1'!$E$24:$E$62",
+          "points_checked": 39,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'A1_F.1'!$B$24:$B$62",
+          "original_formula": "'A1_F.1'!$B$24:$B$62",
+          "points_checked": 39,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'A1_F.1'!$F$24:$F$62",
+          "original_formula": "'A1_F.1'!$F$24:$F$62",
+          "points_checked": 39,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "Growth values are stored as fractions and formatted as percentages. Financial-year labels are retained exactly; they are not parsed as calendar dates."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 37,
+      "sheet": "A1_F.2",
+      "title": "Figure 2 - Actual and forecast Western Australian dwellings under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36",
+      "series_count": 8,
+      "numeric_points": 79,
+      "checks": [
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'A1_F.2'!$D$23:$T$23",
+          "original_formula": "'A1_F.2'!$D$23:$T$23",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'A1_F.2'!$D$24:$T$24",
+          "original_formula": "'A1_F.2'!$D$24:$T$24",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'A1_F.2'!$D$23:$T$23",
+          "original_formula": "'A1_F.2'!$D$23:$T$23",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'A1_F.2'!$D$26:$T$26",
+          "original_formula": "'A1_F.2'!$D$26:$T$26",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'A1_F.2'!$D$23:$T$23",
+          "original_formula": "'A1_F.2'!$D$23:$T$23",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'A1_F.2'!$D$27:$T$27",
+          "original_formula": "'A1_F.2'!$D$27:$T$27",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'A1_F.2'!$D$23:$T$23",
+          "original_formula": "'A1_F.2'!$D$23:$T$23",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'A1_F.2'!$D$28:$T$28",
+          "original_formula": "'A1_F.2'!$D$28:$T$28",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'A1_F.2'!$D$23:$T$23",
+          "original_formula": "'A1_F.2'!$D$23:$T$23",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'A1_F.2'!$D$25:$T$25",
+          "original_formula": "'A1_F.2'!$D$25:$T$25",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "x",
+          "formula": "'A1_F.2'!$D$23:$T$23",
+          "original_formula": "'A1_F.2'!$D$23:$T$23",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "y",
+          "formula": "'A1_F.2'!$D$29:$T$29",
+          "original_formula": "'A1_F.2'!$D$29:$T$29",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "x",
+          "formula": "'A1_F.2'!$D$23:$T$23",
+          "original_formula": "'A1_F.2'!$D$23:$T$23",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "y",
+          "formula": "'A1_F.2'!$D$30:$T$30",
+          "original_formula": "'A1_F.2'!$D$30:$T$30",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 7,
+          "direction": "x",
+          "formula": "'A1_F.2'!$D$23:$T$23",
+          "original_formula": "'A1_F.2'!$D$23:$T$23",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 7,
+          "direction": "y",
+          "formula": "'A1_F.2'!$D$31:$T$31",
+          "original_formula": "'A1_F.2'!$D$31:$T$31",
+          "points_checked": 17,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 38,
+      "sheet": "A1_F.3",
+      "title": "Figure 3 - Actual and forecast SWIS new connections under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36",
+      "series_count": 7,
+      "numeric_points": 858,
+      "checks": [
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'A1_F.3'!$B$24:$B$227",
+          "original_formula": "'A1_F.3'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'A1_F.3'!$F$24:$F$227",
+          "original_formula": "'A1_F.3'!$F$24:$F$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'A1_F.3'!$B$24:$B$227",
+          "original_formula": "'A1_F.3'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'A1_F.3'!$G$24:$G$227",
+          "original_formula": "'A1_F.3'!$G$24:$G$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'A1_F.3'!$B$24:$B$227",
+          "original_formula": "'A1_F.3'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'A1_F.3'!$H$24:$H$227",
+          "original_formula": "'A1_F.3'!$H$24:$H$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'A1_F.3'!$B$24:$B$227",
+          "original_formula": "'A1_F.3'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'A1_F.3'!$E$24:$E$227",
+          "original_formula": "'A1_F.3'!$E$24:$E$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'A1_F.3'!$B$24:$B$227",
+          "original_formula": "'A1_F.3'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'A1_F.3'!$I$24:$I$227",
+          "original_formula": "'A1_F.3'!$I$24:$I$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "x",
+          "formula": "'A1_F.3'!$B$24:$B$227",
+          "original_formula": "'A1_F.3'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "y",
+          "formula": "'A1_F.3'!$J$24:$J$227",
+          "original_formula": "'A1_F.3'!$J$24:$J$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "x",
+          "formula": "'A1_F.3'!$B$24:$B$227",
+          "original_formula": "'A1_F.3'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "y",
+          "formula": "'A1_F.3'!$K$24:$K$227",
+          "original_formula": "'A1_F.3'!$K$24:$K$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "Each capacity-year label spans 12 monthly observations. Every monthly point is preserved at a unique position, with its worksheet date shown on hover."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 39,
+      "sheet": "A1_F.4",
+      "title": "Figure 4 - Actual and forecast installed residential distributed photovoltaic capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)",
+      "series_count": 8,
+      "numeric_points": 891,
+      "checks": [
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'A1_F.4'!$B$24:$B$227",
+          "original_formula": "'A1_F.4'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'A1_F.4'!$E$24:$E$227",
+          "original_formula": "'A1_F.4'!$E$24:$E$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'A1_F.4'!$B$24:$B$227",
+          "original_formula": "'A1_F.4'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'A1_F.4'!$G$24:$G$227",
+          "original_formula": "'A1_F.4'!$G$24:$G$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'A1_F.4'!$B$24:$B$227",
+          "original_formula": "'A1_F.4'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'A1_F.4'!$H$24:$H$227",
+          "original_formula": "'A1_F.4'!$H$24:$H$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'A1_F.4'!$B$24:$B$227",
+          "original_formula": "'A1_F.4'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'A1_F.4'!$I$24:$I$227",
+          "original_formula": "'A1_F.4'!$I$24:$I$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'A1_F.4'!$B$24:$B$227",
+          "original_formula": "'A1_F.4'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'A1_F.4'!$F$24:$F$227",
+          "original_formula": "'A1_F.4'!$F$24:$F$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "x",
+          "formula": "'A1_F.4'!$B$24:$B$227",
+          "original_formula": "'A1_F.4'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "y",
+          "formula": "'A1_F.4'!$J$24:$J$227",
+          "original_formula": "'A1_F.4'!$J$24:$J$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "x",
+          "formula": "'A1_F.4'!$B$24:$B$227",
+          "original_formula": "'A1_F.4'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "y",
+          "formula": "'A1_F.4'!$K$24:$K$227",
+          "original_formula": "'A1_F.4'!$K$24:$K$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 7,
+          "direction": "x",
+          "formula": "'A1_F.4'!$B$24:$B$227",
+          "original_formula": "'A1_F.4'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 7,
+          "direction": "y",
+          "formula": "'A1_F.4'!$L$24:$L$227",
+          "original_formula": "'A1_F.4'!$L$24:$L$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "Each capacity-year label spans 12 monthly observations. Every monthly point is preserved at a unique position, with its worksheet date shown on hover.",
+        "The 2026 Actual series ends in June 2025, and the 2026 scenario series begin in April 2026. The intervening blank source cells are retained; no values are interpolated."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 40,
+      "sheet": "A1_F.5",
+      "title": "Figure 5 - Actual and forecast installed business distributed PV capacity under three scenarios, from 2025 and 2026 WEM ESOOs, 2019-20 to 2035-36 (MW degraded)",
+      "series_count": 8,
+      "numeric_points": 891,
+      "checks": [
+        {
+          "series_index": 0,
+          "direction": "x",
+          "formula": "'A1_F.5'!$B$24:$B$227",
+          "original_formula": "'A1_F.5'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 0,
+          "direction": "y",
+          "formula": "'A1_F.5'!$E$24:$E$227",
+          "original_formula": "'A1_F.5'!$E$24:$E$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'A1_F.5'!$B$24:$B$227",
+          "original_formula": "'A1_F.5'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'A1_F.5'!$G$24:$G$227",
+          "original_formula": "'A1_F.5'!$G$24:$G$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'A1_F.5'!$B$24:$B$227",
+          "original_formula": "'A1_F.5'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'A1_F.5'!$H$24:$H$227",
+          "original_formula": "'A1_F.5'!$H$24:$H$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'A1_F.5'!$B$24:$B$227",
+          "original_formula": "'A1_F.5'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'A1_F.5'!$I$24:$I$227",
+          "original_formula": "'A1_F.5'!$I$24:$I$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "x",
+          "formula": "'A1_F.5'!$B$24:$B$227",
+          "original_formula": "'A1_F.5'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 1,
+          "direction": "y",
+          "formula": "'A1_F.5'!$F$24:$F$227",
+          "original_formula": "'A1_F.5'!$F$24:$F$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "x",
+          "formula": "'A1_F.5'!$B$24:$B$227",
+          "original_formula": "'A1_F.5'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "y",
+          "formula": "'A1_F.5'!$J$24:$J$227",
+          "original_formula": "'A1_F.5'!$J$24:$J$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "x",
+          "formula": "'A1_F.5'!$B$24:$B$227",
+          "original_formula": "'A1_F.5'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "y",
+          "formula": "'A1_F.5'!$K$24:$K$227",
+          "original_formula": "'A1_F.5'!$K$24:$K$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 7,
+          "direction": "x",
+          "formula": "'A1_F.5'!$B$24:$B$227",
+          "original_formula": "'A1_F.5'!$B$24:$B$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 7,
+          "direction": "y",
+          "formula": "'A1_F.5'!$L$24:$L$227",
+          "original_formula": "'A1_F.5'!$L$24:$L$227",
+          "points_checked": 204,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "Each capacity-year label spans 12 monthly observations. Every monthly point is preserved at a unique position, with its worksheet date shown on hover.",
+        "The 2026 Actual series ends in June 2025, and the 2026 scenario series begin in April 2026. The intervening blank source cells are retained; no values are interpolated."
+      ],
+      "rendered_values_match_chart_cache": true
+    },
+    {
+      "chart_number": 41,
+      "sheet": "A1_F.6",
+      "title": "Figure 6 - Forecast delivered consumption resulting from electrification under three scenarios, from 2025 and 2026 WEM ESOOs, 2025-26 to 2035-36 (TWh)",
+      "series_count": 6,
+      "numeric_points": 66,
+      "checks": [
+        {
+          "series_index": 2,
+          "direction": "x",
+          "formula": "'A1_F.6'!$D$23:$O$23",
+          "original_formula": "'A1_F.6'!$D$23:$O$23",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 2,
+          "direction": "y",
+          "formula": "'A1_F.6'!$D$24:$O$24",
+          "original_formula": "'A1_F.6'!$D$24:$O$24",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "x",
+          "formula": "'A1_F.6'!$D$23:$O$23",
+          "original_formula": "'A1_F.6'!$D$23:$O$23",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 3,
+          "direction": "y",
+          "formula": "'A1_F.6'!$D$25:$O$25",
+          "original_formula": "'A1_F.6'!$D$25:$O$25",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "x",
+          "formula": "'A1_F.6'!$D$23:$O$23",
+          "original_formula": "'A1_F.6'!$D$23:$O$23",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 4,
+          "direction": "y",
+          "formula": "'A1_F.6'!$D$26:$O$26",
+          "original_formula": "'A1_F.6'!$D$26:$O$26",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "x",
+          "formula": "'A1_F.6'!$D$23:$O$23",
+          "original_formula": "'A1_F.6'!$D$23:$O$23",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 5,
+          "direction": "y",
+          "formula": "'A1_F.6'!$D$27:$O$27",
+          "original_formula": "'A1_F.6'!$D$27:$O$27",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "x",
+          "formula": "'A1_F.6'!$D$23:$O$23",
+          "original_formula": "'A1_F.6'!$D$23:$O$23",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 6,
+          "direction": "y",
+          "formula": "'A1_F.6'!$D$28:$O$28",
+          "original_formula": "'A1_F.6'!$D$28:$O$28",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 7,
+          "direction": "x",
+          "formula": "'A1_F.6'!$D$23:$O$23",
+          "original_formula": "'A1_F.6'!$D$23:$O$23",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        },
+        {
+          "series_index": 7,
+          "direction": "y",
+          "formula": "'A1_F.6'!$D$29:$O$29",
+          "original_formula": "'A1_F.6'!$D$29:$O$29",
+          "points_checked": 12,
+          "mismatch_count": 0,
+          "normalization": null
+        }
+      ],
+      "notes": [
+        "Values and axes use the Excel chart’s explicit display-unit scaling; original cached values are retained.",
+        "Source cells are in GWh. Values are divided by 1,000 to reproduce the Excel chart’s TWh display unit; original GWh values remain in the saved chart data."
+      ],
+      "rendered_values_match_chart_cache": true
+    }
+  ],
+  "chart_count": 13,
+  "cache_values_verified": 91095,
+  "cache_and_worksheet_positions_checked": 186717,
+  "source_issues": [
+    "Chart 32 has a broken category formula for its surplus/shortfall series; the sibling series’ saved year labels are used, without changing any y values.",
+    "Chart 33 cached categories contain whitespace absent from the worksheet; trimming is display-only.",
+    "Chart 36 declares an Excel date axis but supplies financial-year text categories; the recreation displays those text labels."
+  ],
+  "source_file": "data/sources/2026-wem-esoo-data-register.xlsx"
+}

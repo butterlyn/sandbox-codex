@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "2026-wem-esoo-data-register.xlsx",
+    "url": "https://www.aemo.com.au/-/media/files/electricity/wem/planning_and_forecasting/esoo/2026/2026-wem-esoo-data-register.xlsx?rev=26835913281149c6bb2c55eb7556d8de&sc_lang=en",
+    "bytes": 22938946,
+    "sha256": "041c963601b40250ce7ea91df0eff078c654546b4907ad027e97dbf66ca9a5c5",
+    "downloaded_at": "2026-10-13T09:14:52.099688+00:00"
+  },
+  {
+    "filename": "2026-wem-esoo-demand-traces.xlsb",
+    "url": "https://www.aemo.com.au/-/media/files/electricity/wem/planning_and_forecasting/esoo/2026/2026-wem-esoo-demand-traces.xlsb?rev=b43bc3ba81804e0196cc9743a727d714&sc_lang=en",
+    "bytes": 12343762,
+    "sha256": "c0105d8b667c1dcc0d54af5faa77bbbb314c13d9881b45288c48d2230969ffac",
+    "downloaded_at": "2026-10-13T09:14:52.142080+00:00"
+  },
+  {
+    "filename": "2026-wem-electricity-statement-of-opportunities.pdf",
+    "url": "https://www.aemo.com.au/-/media/files/electricity/wem/planning_and_forecasting/esoo/2026/2026-wem-electricity-statement-of-opportunities.pdf?rev=3aa69153c92f4437ac7032402a261f9c&sc_lang=en",
+    "bytes": 9394012,
+    "sha256": "13d77e0c6fa9182351549b3c2c5e9258b85222458d07843eebe2a9040fc842a6",
+    "downloaded_at": "2026-10-13T09:14:52.149214+00:00"
+  },
+  {
+    "filename": "2026-wem-esoo-appendices.pdf",
+    "url": "https://www.aemo.com.au/-/media/files/electricity/wem/planning_and_forecasting/esoo/2026/2026-wem-esoo-appendices.pdf?rev=d4e5004b328d4775a86b7d5ae890b0dd&sc_lang=en",
+    "bytes": 5339071,
+    "sha256": "4f7cd203849bf058f6ac9f040d4012b4248a181d4ab6116ca62f98cf14fe37f5",
+    "downloaded_at": "2026-10-13T09:14:52.011011+00:00"
+  }
+]

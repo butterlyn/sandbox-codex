@@ -1,0 +1,2997 @@
+{
+  "started_at": "2026-10-13T09:45:08.659566+00:00",
+  "index_sha256": "0455867e5f1ee2ac54894c73ed965ce20b64007d41041c9ea725330d1dc8bab7",
+  "expected_figure_count": 97,
+  "browser": "Chromium /usr/bin/chromium via Python Playwright",
+  "transport": "temporary loopback HTTP server",
+  "verification_limit": "Direct file:// navigation is blocked by the managed browser's administrative policy (ERR_BLOCKED_BY_ADMINISTRATOR). The identical single HTML file was tested over loopback HTTP with all external requests denied.",
+  "external_requests": [],
+  "local_requests": [
+    "http://127.0.0.1:39965/index.html"
+  ],
+  "page_errors": [],
+  "console_errors": [],
+  "figures": [
+    {
+      "id": "chart-01",
+      "kind": "interactive",
+      "sheet": "ES_F.1",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 58,
+      "calculated_points": 58,
+      "svg_count": 3,
+      "geometry_count": 15,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -2695.3502342803035,
+            7500
+          ]
+        }
+      },
+      "fixed_axis_bound_verified": "y maximum 7,500 MW",
+      "status": "passed",
+      "seconds": 0.07
+    },
+    {
+      "id": "chart-02",
+      "kind": "interactive",
+      "sheet": "ES_F.2",
+      "input_traces": 30,
+      "full_traces": 30,
+      "numeric_values": 300,
+      "calculated_points": 300,
+      "svg_count": 3,
+      "geometry_count": 273,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            7423.211067859648
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.1
+    },
+    {
+      "id": "supplement-ch1-f3",
+      "kind": "reference",
+      "sheet": "Ch 1_F.3",
+      "image_width": 1085,
+      "image_height": 764,
+      "status": "passed",
+      "seconds": 0.03
+    },
+    {
+      "id": "supplement-ch1-f4",
+      "kind": "reference",
+      "sheet": "Ch 1_F.4",
+      "image_width": 1192,
+      "image_height": 941,
+      "status": "passed",
+      "seconds": 0.03
+    },
+    {
+      "id": "supplement-ch1-f5",
+      "kind": "reference",
+      "sheet": "Ch 1_F.5",
+      "image_width": 1896,
+      "image_height": 1064,
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "supplement-ch1-f6",
+      "kind": "reference",
+      "sheet": "Ch 1_F.6",
+      "image_width": 1196,
+      "image_height": 618,
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-03",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.7",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 77,
+      "calculated_points": 77,
+      "svg_count": 3,
+      "geometry_count": 85,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            16.40872989604453,
+            43.31901010395547
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-04",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.8",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 102,
+      "calculated_points": 102,
+      "svg_count": 3,
+      "geometry_count": 102,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            16.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            33.544210526315794
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-05",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.9",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 102,
+      "calculated_points": 102,
+      "svg_count": 3,
+      "geometry_count": 102,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            16.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            25.636358916810526
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-06",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.10",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 132,
+      "calculated_points": 66,
+      "svg_count": 3,
+      "geometry_count": 6,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            10
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            11.100556915789474
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-07",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.11",
+      "input_traces": 9,
+      "full_traces": 9,
+      "numeric_values": 198,
+      "calculated_points": 99,
+      "svg_count": 3,
+      "geometry_count": 9,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            10
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            24.733196474705263
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-08",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.12",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 70,
+      "calculated_points": 70,
+      "svg_count": 3,
+      "geometry_count": 77,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            3000,
+            7093.977968058053
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.07
+    },
+    {
+      "id": "chart-09",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.13",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 66,
+      "calculated_points": 66,
+      "svg_count": 3,
+      "geometry_count": 72,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.6725446327341991,
+            11.6725446327342
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            3000,
+            7000
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-10",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.14",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 30,
+      "calculated_points": 30,
+      "svg_count": 3,
+      "geometry_count": 32,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5502637904188902,
+            9.55026379041889
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -1500,
+            6894.986330488476
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-11",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.15",
+      "input_traces": 2,
+      "full_traces": 2,
+      "numeric_values": 576,
+      "calculated_points": 288,
+      "svg_count": 3,
+      "geometry_count": 288,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            -0.5,
+            143.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -400,
+            200
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.07
+    },
+    {
+      "id": "chart-12",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.15",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 864,
+      "calculated_points": 432,
+      "svg_count": 3,
+      "geometry_count": 3,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            -0.5,
+            143.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            5500
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-13",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.16",
+      "input_traces": 1,
+      "full_traces": 1,
+      "numeric_values": 24,
+      "calculated_points": 12,
+      "svg_count": 3,
+      "geometry_count": 12,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            -0.5,
+            11.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -400,
+            200
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-14",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.16",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 72,
+      "calculated_points": 36,
+      "svg_count": 3,
+      "geometry_count": 3,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            -0.5,
+            11.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            4000,
+            5250
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-15",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.17",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 69,
+      "calculated_points": 69,
+      "svg_count": 3,
+      "geometry_count": 76,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            2000,
+            7534.321655429741
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-16",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.18",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 70,
+      "calculated_points": 70,
+      "svg_count": 3,
+      "geometry_count": 77,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -562.081352416921,
+            1097.019148416921
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-17",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.19",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 70,
+      "calculated_points": 70,
+      "svg_count": 3,
+      "geometry_count": 77,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -308.9264265886451,
+            1080.718262588645
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-18",
+      "kind": "interactive",
+      "sheet": "Ch 2_F.20",
+      "input_traces": 14,
+      "full_traces": 14,
+      "numeric_values": 394,
+      "calculated_points": 233,
+      "svg_count": 3,
+      "geometry_count": 3,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            18.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -500,
+            3500
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.12
+    },
+    {
+      "id": "supplement-ch3-f21",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.21",
+      "input_traces": 5,
+      "full_traces": 5,
+      "numeric_values": 15,
+      "calculated_points": 15,
+      "svg_count": 3,
+      "geometry_count": 15,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            1
+          ]
+        },
+        "yaxis": {
+          "type": "category",
+          "range": [
+            2.5,
+            -0.5
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.07
+    },
+    {
+      "id": "chart-19",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.22",
+      "input_traces": 30,
+      "full_traces": 30,
+      "numeric_values": 300,
+      "calculated_points": 300,
+      "svg_count": 3,
+      "geometry_count": 273,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            8000
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-20",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.23",
+      "input_traces": 10,
+      "full_traces": 10,
+      "numeric_values": 98,
+      "calculated_points": 100,
+      "svg_count": 3,
+      "geometry_count": 55,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            8000
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.07
+    },
+    {
+      "id": "chart-21",
+      "kind": "unavailable",
+      "sheet": "Ch 3_F.24",
+      "source_issue_displayed": true,
+      "status": "passed",
+      "seconds": 0.1
+    },
+    {
+      "id": "chart-22",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.24",
+      "input_traces": 10,
+      "full_traces": 10,
+      "numeric_values": 90,
+      "calculated_points": 90,
+      "svg_count": 3,
+      "geometry_count": 82,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            8.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            4969.569220774347
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-23",
+      "kind": "unavailable",
+      "sheet": "Ch 3_F.25",
+      "source_issue_displayed": true,
+      "status": "passed",
+      "seconds": 0.02
+    },
+    {
+      "id": "chart-24",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.25",
+      "input_traces": 10,
+      "full_traces": 10,
+      "numeric_values": 80,
+      "calculated_points": 80,
+      "svg_count": 3,
+      "geometry_count": 81,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            7.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -428.99788888888895,
+            1293.179888888889
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-25",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.26",
+      "input_traces": 9,
+      "full_traces": 9,
+      "numeric_values": 72,
+      "calculated_points": 72,
+      "svg_count": 3,
+      "geometry_count": 72,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            7.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            2400
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-26",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.27",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 18,
+      "calculated_points": 18,
+      "svg_count": 3,
+      "geometry_count": 18,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            5.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            0.35789473684210527
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-27",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.28",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 1454,
+      "calculated_points": 727,
+      "svg_count": 3,
+      "geometry_count": 6,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            874
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            0.3
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.08
+    },
+    {
+      "id": "chart-28",
+      "kind": "interactive",
+      "sheet": "Ch 3_F.29",
+      "input_traces": 2,
+      "full_traces": 2,
+      "numeric_values": 40,
+      "calculated_points": 40,
+      "svg_count": 3,
+      "geometry_count": 40,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -1.1658704090773364,
+            20.165870409077336
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            0.5
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            0,
+            350
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.09
+    },
+    {
+      "id": "supplement-ch4-f30",
+      "kind": "reference",
+      "sheet": "Ch 4_F.30",
+      "image_width": 910,
+      "image_height": 786,
+      "status": "passed",
+      "seconds": 0.03
+    },
+    {
+      "id": "chart-29",
+      "kind": "interactive",
+      "sheet": "Ch 4_F.31",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 144,
+      "calculated_points": 144,
+      "svg_count": 3,
+      "geometry_count": 97,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            47.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            4906.353121447769
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-30",
+      "kind": "interactive",
+      "sheet": "Ch 4_F.32",
+      "input_traces": 5,
+      "full_traces": 5,
+      "numeric_values": 175546,
+      "calculated_points": 87701,
+      "svg_count": 3,
+      "geometry_count": 5,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            17568
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            5000
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.13
+    },
+    {
+      "id": "supplement-ch5-f33",
+      "kind": "interactive",
+      "sheet": "Ch 5_F.33",
+      "input_traces": 15,
+      "full_traces": 15,
+      "numeric_values": 24000,
+      "calculated_points": 15,
+      "svg_count": 3,
+      "geometry_count": 24030,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "xaxis2": {
+          "type": "category",
+          "range": [
+            -0.5,
+            4.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.035,
+            1.5
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            0,
+            0.002
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.58
+    },
+    {
+      "id": "supplement-ch5-f34",
+      "kind": "interactive",
+      "sheet": "Ch 5_F.34",
+      "input_traces": 16,
+      "full_traces": 16,
+      "numeric_values": 1552,
+      "calculated_points": 1552,
+      "svg_count": 3,
+      "geometry_count": 16,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "date",
+          "range": [
+            "2027-03-20T00:00:00",
+            "2027-03-22T00:00:00"
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -2000,
+            8000
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            -25,
+            100
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.08
+    },
+    {
+      "id": "supplement-ch5-f35",
+      "kind": "interactive",
+      "sheet": "Ch 5_F.35",
+      "input_traces": 15,
+      "full_traces": 15,
+      "numeric_values": 1455,
+      "calculated_points": 1455,
+      "svg_count": 3,
+      "geometry_count": 15,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "date",
+          "range": [
+            "2032-07-01T00:00:00",
+            "2032-07-03T00:00:00"
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -2000,
+            8000
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            -25,
+            100
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "supplement-ch5-f36",
+      "kind": "interactive",
+      "sheet": "Ch 5_F.36",
+      "input_traces": 12,
+      "full_traces": 12,
+      "numeric_values": 1152,
+      "calculated_points": 576,
+      "svg_count": 3,
+      "geometry_count": 12,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            23.5
+          ]
+        },
+        "xaxis2": {
+          "type": "linear",
+          "range": [
+            0,
+            23.5
+          ]
+        },
+        "xaxis3": {
+          "type": "linear",
+          "range": [
+            0,
+            23.5
+          ]
+        },
+        "xaxis4": {
+          "type": "linear",
+          "range": [
+            0,
+            23.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            150
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            0,
+            150
+          ]
+        },
+        "yaxis3": {
+          "type": "linear",
+          "range": [
+            0,
+            150
+          ]
+        },
+        "yaxis4": {
+          "type": "linear",
+          "range": [
+            0,
+            150
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.07
+    },
+    {
+      "id": "chart-31",
+      "kind": "interactive",
+      "sheet": "Ch 5_F.37",
+      "input_traces": 4,
+      "full_traces": 4,
+      "numeric_values": 192,
+      "calculated_points": 192,
+      "svg_count": 3,
+      "geometry_count": 4,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            0,
+            47
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -157.00163799462499,
+            2983.0311218978745
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-32",
+      "kind": "interactive",
+      "sheet": "Ch 5_F.38",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 58,
+      "calculated_points": 58,
+      "svg_count": 3,
+      "geometry_count": 15,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -2695.3502342803035,
+            7500
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-33",
+      "kind": "interactive",
+      "sheet": "Ch 5_F.39",
+      "input_traces": 4,
+      "full_traces": 4,
+      "numeric_values": 34,
+      "calculated_points": 34,
+      "svg_count": 3,
+      "geometry_count": 4,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            0,
+            8
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            2000,
+            4992.593120308896
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "supplement-ch5-f40",
+      "kind": "interactive",
+      "sheet": "Ch 5_F.40",
+      "input_traces": 2,
+      "full_traces": 2,
+      "numeric_values": 560640,
+      "calculated_points": 0,
+      "svg_count": 3,
+      "geometry_count": 0,
+      "webgl": true,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            1,
+            280320
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            6865.697887368421
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 15.72
+    },
+    {
+      "id": "supplement-ch6-f41",
+      "kind": "reference",
+      "sheet": "Ch 6_F.41",
+      "image_width": 904,
+      "image_height": 1036,
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "supplement-ch6-f42",
+      "kind": "interactive",
+      "sheet": "Ch 6_F.42",
+      "input_traces": 4,
+      "full_traces": 4,
+      "numeric_values": 51632,
+      "calculated_points": 30,
+      "svg_count": 3,
+      "geometry_count": 1000,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.516042780748663,
+            9.516042780748663
+          ]
+        },
+        "xaxis2": {
+          "type": "category",
+          "range": [
+            -0.5204076079562461,
+            4.520407607956246
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.025,
+            2
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            -0.0002,
+            0.04
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.19
+    },
+    {
+      "id": "supplement-ch6-f43",
+      "kind": "interactive",
+      "sheet": "Ch 6_F.43",
+      "input_traces": 5,
+      "full_traces": 5,
+      "numeric_values": 86095,
+      "calculated_points": 50,
+      "svg_count": 3,
+      "geometry_count": 2722,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "xaxis2": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "xaxis3": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "xaxis4": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "xaxis5": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.002,
+            0.31
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            -0.002,
+            0.31
+          ]
+        },
+        "yaxis3": {
+          "type": "linear",
+          "range": [
+            -0.002,
+            0.31
+          ]
+        },
+        "yaxis4": {
+          "type": "linear",
+          "range": [
+            -0.002,
+            0.31
+          ]
+        },
+        "yaxis5": {
+          "type": "linear",
+          "range": [
+            -0.002,
+            0.31
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.19
+    },
+    {
+      "id": "supplement-ch6-f44",
+      "kind": "reference",
+      "sheet": "Ch 6_F.44",
+      "image_width": 1019,
+      "image_height": 507,
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "supplement-ch6-f45",
+      "kind": "reference",
+      "sheet": "Ch 6_F.45",
+      "image_width": 727,
+      "image_height": 654,
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "supplement-ch6-f46",
+      "kind": "reference",
+      "sheet": "Ch 6_F.46",
+      "image_width": 1032,
+      "image_height": 901,
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-34",
+      "kind": "interactive",
+      "sheet": "Ch 7_F.47",
+      "input_traces": 5,
+      "full_traces": 5,
+      "numeric_values": 23,
+      "calculated_points": 25,
+      "svg_count": 3,
+      "geometry_count": 21,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            4.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            8000
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "supplement-ch7-f48",
+      "kind": "reference",
+      "sheet": "Ch 7_F.48",
+      "image_width": 1107,
+      "image_height": 971,
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-35",
+      "kind": "interactive",
+      "sheet": "Ch 7_F.49",
+      "input_traces": 4,
+      "full_traces": 4,
+      "numeric_values": 41,
+      "calculated_points": 42,
+      "svg_count": 3,
+      "geometry_count": 12,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            11.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            500000
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            -1000,
+            1000
+          ]
+        }
+      },
+      "shared_categories_verified": [
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25",
+        "2025-26",
+        "2026-27",
+        "2027-28",
+        "2028-29"
+      ],
+      "status": "passed",
+      "seconds": 0.18
+    },
+    {
+      "id": "chart-36",
+      "kind": "interactive",
+      "sheet": "A1_F.1",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 117,
+      "calculated_points": 117,
+      "svg_count": 3,
+      "geometry_count": 3,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            0,
+            38
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.005904462173274581,
+            0.04524750940218737
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-37",
+      "kind": "interactive",
+      "sheet": "A1_F.2",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 79,
+      "calculated_points": 79,
+      "svg_count": 3,
+      "geometry_count": 87,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            7867.44590260626,
+            22522.554097393742
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-38",
+      "kind": "interactive",
+      "sheet": "A1_F.3",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 2286,
+      "calculated_points": 858,
+      "svg_count": 3,
+      "geometry_count": 7,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            203
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            1000000,
+            1293469.7222222222
+          ]
+        }
+      },
+      "fixed_axis_bound_verified": "y minimum 1,000,000",
+      "status": "passed",
+      "seconds": 0.08
+    },
+    {
+      "id": "chart-39",
+      "kind": "interactive",
+      "sheet": "A1_F.4",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 2523,
+      "calculated_points": 891,
+      "svg_count": 3,
+      "geometry_count": 8,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            203
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            726.9138464335779,
+            5825.228917762022
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-40",
+      "kind": "interactive",
+      "sheet": "A1_F.5",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 2523,
+      "calculated_points": 891,
+      "svg_count": 3,
+      "geometry_count": 8,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            203
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            134.80807573171688,
+            1100.0676998476993
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-41",
+      "kind": "interactive",
+      "sheet": "A1_F.6",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 66,
+      "calculated_points": 66,
+      "svg_count": 3,
+      "geometry_count": 72,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.6725446327341991,
+            11.6725446327342
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.5249009304435159,
+            8.129958881513517
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-42",
+      "kind": "interactive",
+      "sheet": "A1_F.7",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 69,
+      "calculated_points": 69,
+      "svg_count": 3,
+      "geometry_count": 76,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.07444189880429877,
+            1.1879547570236189
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-43",
+      "kind": "interactive",
+      "sheet": "A1_F.8a",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 69,
+      "calculated_points": 69,
+      "svg_count": 3,
+      "geometry_count": 76,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -198.65661521546306,
+            3958.3953852154627
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-44",
+      "kind": "interactive",
+      "sheet": "A1_F.8b",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 69,
+      "calculated_points": 69,
+      "svg_count": 3,
+      "geometry_count": 76,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -567.4539005128022,
+            10000
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-45",
+      "kind": "interactive",
+      "sheet": "A1_F.9",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 30,
+      "calculated_points": 30,
+      "svg_count": 3,
+      "geometry_count": 30,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            3750
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-46",
+      "kind": "interactive",
+      "sheet": "A1_F.9",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 30,
+      "calculated_points": 30,
+      "svg_count": 3,
+      "geometry_count": 30,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            3750
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-47",
+      "kind": "interactive",
+      "sheet": "A1_F.9",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 30,
+      "calculated_points": 30,
+      "svg_count": 3,
+      "geometry_count": 30,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            3750
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.03
+    },
+    {
+      "id": "chart-48",
+      "kind": "interactive",
+      "sheet": "A1_F.10",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 77,
+      "calculated_points": 77,
+      "svg_count": 3,
+      "geometry_count": 85,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            4.949436060950258,
+            10.629580645730133
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-49",
+      "kind": "interactive",
+      "sheet": "A1_F.11",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 77,
+      "calculated_points": 77,
+      "svg_count": 3,
+      "geometry_count": 85,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            1.4673782278324414,
+            4.319622472167558
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "supplement-a1-f12a-base-load",
+      "kind": "reference",
+      "sheet": "A1_F.12a",
+      "image_width": 1344,
+      "image_height": 610,
+      "status": "passed",
+      "seconds": 0.03
+    },
+    {
+      "id": "supplement-a1-f12a-cooling-response",
+      "kind": "reference",
+      "sheet": "A1_F.12a",
+      "image_width": 1344,
+      "image_height": 610,
+      "status": "passed",
+      "seconds": 0.03
+    },
+    {
+      "id": "supplement-a1-f12a-heating-response",
+      "kind": "reference",
+      "sheet": "A1_F.12a",
+      "image_width": 1344,
+      "image_height": 610,
+      "status": "passed",
+      "seconds": 0.03
+    },
+    {
+      "id": "supplement-a1-f12a-temperature-response",
+      "kind": "reference",
+      "sheet": "A1_F.12a",
+      "image_width": 1340,
+      "image_height": 600,
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-50",
+      "kind": "interactive",
+      "sheet": "A1_F.12b",
+      "input_traces": 10,
+      "full_traces": 10,
+      "numeric_values": 4052,
+      "calculated_points": 2026,
+      "svg_count": 3,
+      "geometry_count": 1831,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            8,
+            32
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            10,
+            25
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.08
+    },
+    {
+      "id": "chart-51",
+      "kind": "interactive",
+      "sheet": "A1_F.12c",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 46,
+      "calculated_points": 23,
+      "svg_count": 3,
+      "geometry_count": 7,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            2020,
+            2036
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            4000,
+            5935.021288131782
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-52",
+      "kind": "interactive",
+      "sheet": "A1_F.12d",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 46,
+      "calculated_points": 23,
+      "svg_count": 3,
+      "geometry_count": 7,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            2020,
+            2036
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0.5704671064313068,
+            1.8306006805708592
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-53",
+      "kind": "interactive",
+      "sheet": "A1_F.12e",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 46,
+      "calculated_points": 23,
+      "svg_count": 3,
+      "geometry_count": 7,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            2020,
+            2036
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0.6722717295368712,
+            1.7142464281963368
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-54",
+      "kind": "interactive",
+      "sheet": "A1_F.13",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 77,
+      "calculated_points": 77,
+      "svg_count": 3,
+      "geometry_count": 85,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            7.211084302876046,
+            13.244371194702843
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-55",
+      "kind": "interactive",
+      "sheet": "A1_F.14",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 77,
+      "calculated_points": 77,
+      "svg_count": 3,
+      "geometry_count": 85,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            6.835524005622464,
+            12.08828800924705
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-56",
+      "kind": "interactive",
+      "sheet": "A1_F.15",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 77,
+      "calculated_points": 77,
+      "svg_count": 3,
+      "geometry_count": 85,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            4.393288666947966,
+            9.356582333052035
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-57",
+      "kind": "interactive",
+      "sheet": "A1_F.16",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 66,
+      "calculated_points": 66,
+      "svg_count": 3,
+      "geometry_count": 72,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.6725446327341991,
+            11.6725446327342
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.1632219110051352,
+            2.814188151005135
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-58",
+      "kind": "interactive",
+      "sheet": "A1_F.17",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 77,
+      "calculated_points": 77,
+      "svg_count": 3,
+      "geometry_count": 85,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.31886712822566166,
+            4.952048928225661
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-59",
+      "kind": "interactive",
+      "sheet": "A1_F.18",
+      "input_traces": 4,
+      "full_traces": 4,
+      "numeric_values": 39,
+      "calculated_points": 39,
+      "svg_count": 3,
+      "geometry_count": 43,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0.03639385579046993,
+            1.20425619022553
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "supplement-a1-f19",
+      "kind": "reference",
+      "sheet": "A1_F.19",
+      "image_width": 1145,
+      "image_height": 505,
+      "status": "passed",
+      "seconds": 0.03
+    },
+    {
+      "id": "chart-60",
+      "kind": "interactive",
+      "sheet": "A1_F.19b",
+      "input_traces": 4,
+      "full_traces": 4,
+      "numeric_values": 39,
+      "calculated_points": 39,
+      "svg_count": 3,
+      "geometry_count": 43,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -0.003024991823323289,
+            1.8164361385444103
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-61",
+      "kind": "interactive",
+      "sheet": "A1_F.19c",
+      "input_traces": 4,
+      "full_traces": 4,
+      "numeric_values": 39,
+      "calculated_points": 39,
+      "svg_count": 3,
+      "geometry_count": 43,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0.07562157881863649,
+            1.8
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.04
+    },
+    {
+      "id": "chart-62",
+      "kind": "interactive",
+      "sheet": "A1_F.19d",
+      "input_traces": 4,
+      "full_traces": 4,
+      "numeric_values": 39,
+      "calculated_points": 39,
+      "svg_count": 3,
+      "geometry_count": 43,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.9782467385224715,
+            16.978246738522472
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0.03637827128073817,
+            1.8
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-63",
+      "kind": "interactive",
+      "sheet": "A1_F.20",
+      "input_traces": 5,
+      "full_traces": 5,
+      "numeric_values": 100,
+      "calculated_points": 100,
+      "svg_count": 3,
+      "geometry_count": 43,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            0,
+            19
+          ]
+        },
+        "xaxis2": {
+          "type": "category",
+          "range": [
+            -0.5,
+            19.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            3000,
+            5250
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            -200,
+            550
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.09
+    },
+    {
+      "id": "chart-64",
+      "kind": "interactive",
+      "sheet": "A1_F.20",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 144,
+      "calculated_points": 144,
+      "svg_count": 3,
+      "geometry_count": 50,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            0,
+            47
+          ]
+        },
+        "xaxis2": {
+          "type": "category",
+          "range": [
+            -0.5,
+            47.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            5500
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            -200,
+            550
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-65",
+      "kind": "interactive",
+      "sheet": "A2_F.21",
+      "input_traces": 2,
+      "full_traces": 2,
+      "numeric_values": 78,
+      "calculated_points": 78,
+      "svg_count": 3,
+      "geometry_count": 78,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            38.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            315.7894736842105
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "chart-66",
+      "kind": "interactive",
+      "sheet": "A3_F.22",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 70,
+      "calculated_points": 70,
+      "svg_count": 3,
+      "geometry_count": 52,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            9.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            4118.1808365789475
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "chart-67",
+      "kind": "interactive",
+      "sheet": "A4_F.23",
+      "input_traces": 9,
+      "full_traces": 9,
+      "numeric_values": 432,
+      "calculated_points": 432,
+      "svg_count": 3,
+      "geometry_count": 433,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -2.8735997944097598,
+            49.873599794409756
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            2000,
+            5500
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.09
+    },
+    {
+      "id": "chart-68",
+      "kind": "interactive",
+      "sheet": "A4_F.24",
+      "input_traces": 3,
+      "full_traces": 3,
+      "numeric_values": 48,
+      "calculated_points": 48,
+      "svg_count": 3,
+      "geometry_count": 18,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "category",
+          "range": [
+            -0.5,
+            15.5
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            800,
+            1800
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "supplement-a4-f25",
+      "kind": "interactive",
+      "sheet": "A4_F.25",
+      "input_traces": 7,
+      "full_traces": 7,
+      "numeric_values": 66,
+      "calculated_points": 66,
+      "svg_count": 3,
+      "geometry_count": 66,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "date",
+          "range": [
+            "2026-10-01",
+            "2031-10-01"
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            2800,
+            5800
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "id": "supplement-a4-f26",
+      "kind": "interactive",
+      "sheet": "A4_F.26",
+      "input_traces": 5,
+      "full_traces": 5,
+      "numeric_values": 3486,
+      "calculated_points": 3486,
+      "svg_count": 3,
+      "geometry_count": 3486,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "date",
+          "range": [
+            "2031-10-01",
+            "2035-10-15"
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            2000,
+            6400
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.18
+    },
+    {
+      "id": "supplement-a4-f27",
+      "kind": "interactive",
+      "sheet": "A4_F.27",
+      "input_traces": 2,
+      "full_traces": 2,
+      "numeric_values": 600,
+      "calculated_points": 300,
+      "svg_count": 3,
+      "geometry_count": 300,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            6
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            30
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.08
+    },
+    {
+      "id": "supplement-a4-f28-battery",
+      "kind": "interactive",
+      "sheet": "A4_F.28",
+      "input_traces": 8,
+      "full_traces": 8,
+      "numeric_values": 776,
+      "calculated_points": 776,
+      "svg_count": 3,
+      "geometry_count": 8,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "date",
+          "range": [
+            "2032-07-01",
+            "2032-07-03"
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -1200,
+            1500
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            0,
+            100
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "supplement-a4-f28-dispatch",
+      "kind": "interactive",
+      "sheet": "A4_F.28",
+      "input_traces": 17,
+      "full_traces": 17,
+      "numeric_values": 1649,
+      "calculated_points": 1649,
+      "svg_count": 3,
+      "geometry_count": 17,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "date",
+          "range": [
+            "2032-07-01",
+            "2032-07-03"
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            -2000,
+            8000
+          ]
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            -25,
+            100
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    },
+    {
+      "id": "supplement-a4-f28-gas",
+      "kind": "interactive",
+      "sheet": "A4_F.28",
+      "input_traces": 6,
+      "full_traces": 6,
+      "numeric_values": 582,
+      "calculated_points": 582,
+      "svg_count": 3,
+      "geometry_count": 6,
+      "webgl": false,
+      "axes": {
+        "xaxis": {
+          "type": "date",
+          "range": [
+            "2032-07-01",
+            "2032-07-03"
+          ]
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0,
+            3200
+          ]
+        }
+      },
+      "status": "passed",
+      "seconds": 0.06
+    }
+  ],
+  "checks": [
+    {
+      "name": "complete inventory loaded",
+      "status": "passed",
+      "seconds": 0.05,
+      "details": {
+        "interactive": 80,
+        "reference": 15,
+        "unavailable": 2
+      }
+    },
+    {
+      "name": "hover shows underlying observation",
+      "status": "passed",
+      "seconds": 0.18,
+      "details": {
+        "tooltip": "2020-21 data2020-10-0118.40 °C13.020 kWh"
+      }
+    },
+    {
+      "name": "legend swatches match plotted marker colors",
+      "status": "passed",
+      "seconds": 0.09,
+      "details": [
+        {
+          "name": "2020-21 data",
+          "pointColor": "rgb(255, 192, 0)",
+          "legendColor": "rgba(255, 192, 0, 0.2)",
+          "match": true
+        },
+        {
+          "name": "2021-22 data",
+          "pointColor": "rgb(64, 193, 172)",
+          "legendColor": "rgba(64, 193, 172, 0.2)",
+          "match": true
+        },
+        {
+          "name": "2022-23 data",
+          "pointColor": "rgb(161, 216, 131)",
+          "legendColor": "rgba(161, 216, 131, 0.2)",
+          "match": true
+        },
+        {
+          "name": "2023-24 data",
+          "pointColor": "rgb(163, 81, 155)",
+          "legendColor": "rgba(163, 81, 155, 0.2)",
+          "match": true
+        },
+        {
+          "name": "2024-25 data",
+          "pointColor": "rgb(107, 48, 119)",
+          "legendColor": "rgba(107, 48, 119, 0.2)",
+          "match": true
+        }
+      ]
+    },
+    {
+      "name": "legend toggle, isolate and show-all",
+      "status": "passed",
+      "seconds": 0.55,
+      "details": {
+        "toggled_trace": 0,
+        "isolate_and_restore": true,
+        "scenario_group": {
+          "first": 0,
+          "group": "Coal",
+          "indices": [
+            0,
+            9,
+            18
+          ]
+        }
+      }
+    },
+    {
+      "name": "drag zoom and reset restore original view",
+      "status": "passed",
+      "seconds": 0.56,
+      "details": {
+        "original_range": [
+          8,
+          32
+        ],
+        "zoomed_range": [
+          14,
+          24.78448275862069
+        ]
+      }
+    },
+    {
+      "name": "search and type filters",
+      "status": "passed",
+      "seconds": 0.2,
+      "details": {
+        "temperature_results": 2,
+        "source_issue_results": 2,
+        "executive_summary_results": 2
+      }
+    },
+    {
+      "name": "figure navigation and permalink",
+      "status": "passed",
+      "seconds": 0.27,
+      "details": {
+        "next": "chart-02",
+        "previous": "chart-01",
+        "permalink": "#chart-01"
+      }
+    },
+    {
+      "name": "data table paginates all observations",
+      "status": "passed",
+      "seconds": 0.55,
+      "details": {
+        "series": "2020-21 data",
+        "total_observations": 365,
+        "last_page_rows": 65,
+        "first_y": 13.020458570757599
+      }
+    },
+    {
+      "name": "CSV exports exact unsampled figure data",
+      "status": "passed",
+      "seconds": 0.13,
+      "details": {
+        "filename": "chart-50-A1_F.12b.csv",
+        "data_rows": 2026,
+        "series": 10,
+        "artifact": "artifacts/qa-chart-50.csv"
+      }
+    },
+    {
+      "name": "PNG export downloads a real image",
+      "status": "passed",
+      "seconds": 0.19,
+      "details": {
+        "filename": "chart-01.png",
+        "bytes": 230716,
+        "width": 2250,
+        "height": 1275,
+        "artifact": "artifacts/qa-chart-01-export.png"
+      }
+    },
+    {
+      "name": "reference image zoom and fit",
+      "status": "passed",
+      "seconds": 0.18,
+      "details": {
+        "fit_width": 1008,
+        "zoomed_width": 1260
+      }
+    },
+    {
+      "name": "source issue disables unavailable actions",
+      "status": "passed",
+      "seconds": 0.08,
+      "details": {
+        "chart": "chart-21",
+        "disabled_actions": [
+          "CSV",
+          "PNG",
+          "Reset",
+          "Data"
+        ]
+      }
+    },
+    {
+      "name": "mobile layout and navigation",
+      "status": "passed",
+      "seconds": 4.21,
+      "details": {
+        "viewport": [
+          390,
+          844
+        ],
+        "document_width": 390,
+        "menu_navigation": "chart-50"
+      }
+    },
+    {
+      "name": "no external runtime dependencies requested",
+      "status": "passed",
+      "seconds": 0.0,
+      "details": {
+        "external_requests": 0,
+        "local_request_count": 1
+      }
+    },
+    {
+      "name": "no browser JavaScript errors",
+      "status": "passed",
+      "seconds": 0.0,
+      "details": {
+        "page_errors": 0,
+        "console_errors": 0
+      }
+    }
+  ],
+  "screenshots": [
+    "artifacts/qa-desktop-first-chart.png",
+    "artifacts/qa-source-issue.png",
+    "artifacts/qa-availability.png",
+    "artifacts/qa-box-plot.png",
+    "artifacts/qa-multiple-axes.png",
+    "artifacts/qa-mobile-first-chart.png",
+    "artifacts/qa-mobile-temperature.png"
+  ],
+  "figure_count": 97,
+  "kind_counts": {
+    "interactive": 80,
+    "reference": 15,
+    "unavailable": 2
+  },
+  "index_unchanged_during_test": true,
+  "finished_at": "2026-10-13T09:45:41.325271+00:00",
+  "failed_checks": 0,
+  "failed_figures": 0,
+  "status": "passed"
+}
